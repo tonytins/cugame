@@ -26,5 +26,5 @@ jobs:
           node-version: "18.x"
           cache: "npm"
       - run: npm install
-      - run: npm install --save-dev @electron-forge/cli
-      - run: electron-forge make
+      # - run: npm install --save-dev @electron-forge/cli
+      # - run: electron-forge make

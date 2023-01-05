@@ -1,0 +1,3135 @@
+{
+    "lorebookVersion": 4,
+    "entries": [
+        {
+            "text": "[ Zack Casey is a young fennec adult who attends Broad River Institute and works at the Pizza Den with Anthony. With his bright, icy blue fur and swirling patterns of deep blue and silver. Zack is very athletic and skilled at skateboarding, but doesn't have much interest in academics. He spends most of his time hanging out with his friends or practicing tricks on his board, his pastel lilac accents adding a touch of whimsy to his laid-back personality. Zack is friendly and easygoing, though sometimes he can be impulsive.  ]",
+            "contextConfig": {
+                "prefix": "",
+                "suffix": "\n",
+                "tokenBudget": 2048,
+                "reservedTokens": 0,
+                "budgetPriority": 400,
+                "trimDirection": "trimBottom",
+                "insertionType": "newline",
+                "maximumTrimType": "sentence",
+                "insertionPosition": -1
+            },
+            "lastUpdatedAt": 1672942362198,
+            "displayName": "Zack Casey",
+            "id": "064041e3-8897-4c00-b5f5-ab42aa26c54c",
+            "keys": [
+                "Zack",
+                "Zack Casey"
+            ],
+            "searchRange": 1000,
+            "enabled": true,
+            "forceActivation": false,
+            "keyRelative": false,
+            "nonStoryActivatable": false,
+            "category": "ae19d7f9-67f4-4fa7-b5fa-486c59addf0a",
+            "loreBiasGroups": [
+                {
+                    "phrases": [],
+                    "ensureSequenceFinish": false,
+                    "generateOnce": true,
+                    "bias": 0,
+                    "enabled": true,
+                    "whenInactive": false
+                }
+            ]
+        },
+        {
+            "text": "[ Used extensively by the MTA, a Psychic paper is a special piece of paper that can make people see whatever the user wants them to see on it, but it is ineffective against those with psychic abilities or high intelligence or those with weak imaginations. It was invented by Professor Emile Hargreaves and sold under the name \"Psychic Paper\". He used it as a way to test his theories about how the brain works. ]",
+            "contextConfig": {
+                "prefix": "",
+                "suffix": "\n",
+                "tokenBudget": 2048,
+                "reservedTokens": 0,
+                "budgetPriority": 400,
+                "trimDirection": "trimBottom",
+                "insertionType": "newline",
+                "maximumTrimType": "sentence",
+                "insertionPosition": -1
+            },
+            "lastUpdatedAt": 1672935243457,
+            "displayName": "Psychic paper",
+            "id": "5332cd3a-fc23-4f12-bd82-9f64115deb35",
+            "keys": [
+                "psychic paper"
+            ],
+            "searchRange": 1000,
+            "enabled": true,
+            "forceActivation": false,
+            "keyRelative": false,
+            "nonStoryActivatable": false,
+            "category": "17cd8608-77fa-42aa-a508-6acdccba4ccc",
+            "loreBiasGroups": [
+                {
+                    "phrases": [],
+                    "ensureSequenceFinish": false,
+                    "generateOnce": true,
+                    "bias": 0,
+                    "enabled": true,
+                    "whenInactive": false
+                }
+            ]
+        },
+        {
+            "text": "[ Discovered in a far away asteroid cluster, the Arcane crystals, sometimes known as Mystic stones or simply the Essence, are rare, exotic stones that are coveted for their unique properties and versatility in magic. They are found in remote locations across the universe and are carefully harvested and refined by skilled practitioners. Each crystal is imbued with a specific type of magic, ranging from simple manipulation of physical objects to complex spells that can bend time and space. The power of an essence crystal is determined by its size, clarity, and purity, with larger, clearer, and purer crystals being more powerful. They are typically activated through the use of complex hand gestures and require a clear and focused mind to channel their power. ]",
+            "contextConfig": {
+                "prefix": "",
+                "suffix": "\n",
+                "tokenBudget": 2048,
+                "reservedTokens": 0,
+                "budgetPriority": 400,
+                "trimDirection": "trimBottom",
+                "insertionType": "newline",
+                "maximumTrimType": "sentence",
+                "insertionPosition": -1
+            },
+            "lastUpdatedAt": 1672944547025,
+            "displayName": "Essence",
+            "id": "567b4ad8-bf8c-4a6f-935a-bdb341a92833",
+            "keys": [
+                "magic crystal",
+                "Arcane crystal",
+                "Mystic stone",
+                "Essence"
+            ],
+            "searchRange": 1000,
+            "enabled": true,
+            "forceActivation": false,
+            "keyRelative": false,
+            "nonStoryActivatable": false,
+            "category": "17cd8608-77fa-42aa-a508-6acdccba4ccc",
+            "loreBiasGroups": [
+                {
+                    "phrases": [],
+                    "ensureSequenceFinish": false,
+                    "generateOnce": true,
+                    "bias": 0,
+                    "enabled": true,
+                    "whenInactive": false
+                }
+            ]
+        },
+        {
+            "text": "[ Apartment 456 is an apartment inside Sunset Arms, a three story apartment building in the city's downtown district. The building was constructed using brick, with wooden trim around windows and doors. A balcony extends off the second floor, overlooking the street below. Inside, there are two bedrooms, one bathroom, and a living room. The kitchen has been updated with stainless steel appliances. ]",
+            "contextConfig": {
+                "prefix": "",
+                "suffix": "\n",
+                "tokenBudget": 2048,
+                "reservedTokens": 0,
+                "budgetPriority": 400,
+                "trimDirection": "trimBottom",
+                "insertionType": "newline",
+                "maximumTrimType": "sentence",
+                "insertionPosition": -1
+            },
+            "lastUpdatedAt": 1672873429845,
+            "displayName": "Apartment 456",
+            "id": "50e16a31-36c6-4c6f-97f7-9a403ebdd131",
+            "keys": [
+                "Apartment 456"
+            ],
+            "searchRange": 1000,
+            "enabled": true,
+            "forceActivation": false,
+            "keyRelative": false,
+            "nonStoryActivatable": false,
+            "category": "3e9dbc4f-8705-42e3-ba79-eadaf1f8b71a",
+            "loreBiasGroups": [
+                {
+                    "phrases": [],
+                    "ensureSequenceFinish": false,
+                    "generateOnce": true,
+                    "bias": 0,
+                    "enabled": true,
+                    "whenInactive": false
+                }
+            ]
+        },
+        {
+            "text": "[ Bridgeport is a bustling metropolis known for its towering neon skyscrapers and diverse districts. The Central Tower, the administrative building that serves as the hub of city government and administration, dominates the skyline. The city is home to a variety of residential and commercial buildings, each with its own unique architecture and culture, and a range of amenities and services for residents and visitors to enjoy, including an efficient elevated subway system. ]",
+            "contextConfig": {
+                "prefix": "",
+                "suffix": "\n",
+                "tokenBudget": 2048,
+                "reservedTokens": 0,
+                "budgetPriority": 400,
+                "trimDirection": "trimBottom",
+                "insertionType": "newline",
+                "maximumTrimType": "sentence",
+                "insertionPosition": -1
+            },
+            "lastUpdatedAt": 1672873432307,
+            "displayName": "Bridgeport",
+            "id": "3b063fbe-2e9b-4770-bfce-4b47fa3870b2",
+            "keys": [
+                "Bridgeport"
+            ],
+            "searchRange": 1000,
+            "enabled": true,
+            "forceActivation": false,
+            "keyRelative": false,
+            "nonStoryActivatable": false,
+            "category": "3e9dbc4f-8705-42e3-ba79-eadaf1f8b71a",
+            "loreBiasGroups": [
+                {
+                    "phrases": [],
+                    "ensureSequenceFinish": false,
+                    "generateOnce": true,
+                    "bias": 0,
+                    "enabled": true,
+                    "whenInactive": false
+                }
+            ]
+        },
+        {
+            "text": "[ Central Tower is a towering government complex located in the heart of Bridgeport that contains the city hall, mayor's penthouse, and local agencies. It was designed as a symbol of the city's power and authority, and serves as both an administrative center and a tourist attraction. Visitors can take tours of the tower or watch the nightly light show that takes place at midnight. ]",
+            "contextConfig": {
+                "prefix": "",
+                "suffix": "\n",
+                "tokenBudget": 2048,
+                "reservedTokens": 0,
+                "budgetPriority": 400,
+                "trimDirection": "trimBottom",
+                "insertionType": "newline",
+                "maximumTrimType": "sentence",
+                "insertionPosition": -1
+            },
+            "lastUpdatedAt": 1672873427500,
+            "displayName": "Central Tower",
+            "id": "cd044766-59a9-4a61-835f-aa6ada2d1bb6",
+            "keys": [
+                "Central Tower"
+            ],
+            "searchRange": 1000,
+            "enabled": true,
+            "forceActivation": false,
+            "keyRelative": false,
+            "nonStoryActivatable": false,
+            "category": "3e9dbc4f-8705-42e3-ba79-eadaf1f8b71a",
+            "loreBiasGroups": [
+                {
+                    "phrases": [],
+                    "ensureSequenceFinish": false,
+                    "generateOnce": true,
+                    "bias": 0,
+                    "enabled": true,
+                    "whenInactive": false
+                }
+            ]
+        },
+        {
+            "text": "[ Materia Bridge is an enormous structure located in Bridgeport. Its twin towers are decorated with neon lights and support a series of arches spanning the width of the river. The bridge connects the city to its suburbs and allows travelers to cross over the water. ]",
+            "contextConfig": {
+                "prefix": "",
+                "suffix": "\n",
+                "tokenBudget": 2048,
+                "reservedTokens": 0,
+                "budgetPriority": 400,
+                "trimDirection": "trimBottom",
+                "insertionType": "newline",
+                "maximumTrimType": "sentence",
+                "insertionPosition": -1
+            },
+            "lastUpdatedAt": 1672872664509,
+            "displayName": "Materia Bridge",
+            "id": "3ef4a368-faea-438d-b4a9-455c0360cc5a",
+            "keys": [
+                "Materia Bridge"
+            ],
+            "searchRange": 1000,
+            "enabled": true,
+            "forceActivation": false,
+            "keyRelative": false,
+            "nonStoryActivatable": false,
+            "category": "3e9dbc4f-8705-42e3-ba79-eadaf1f8b71a",
+            "loreBiasGroups": [
+                {
+                    "phrases": [],
+                    "ensureSequenceFinish": false,
+                    "generateOnce": true,
+                    "bias": 0,
+                    "enabled": true,
+                    "whenInactive": false
+                }
+            ]
+        },
+        {
+            "text": "[ Sunset Arms is a quaint three-story brick apartment building nestled in the heart of the city. It features cozy porches on the upper floors, providing the perfect spot to relax and take in the sights and sounds of the city. The building also boasts a garage in the back, providing convenient parking for residents. ]",
+            "contextConfig": {
+                "prefix": "",
+                "suffix": "\n",
+                "tokenBudget": 2048,
+                "reservedTokens": 0,
+                "budgetPriority": 400,
+                "trimDirection": "trimBottom",
+                "insertionType": "newline",
+                "maximumTrimType": "sentence",
+                "insertionPosition": -1
+            },
+            "lastUpdatedAt": 1672873436119,
+            "displayName": " Sunset Arms",
+            "id": "20c812e0-a694-4b2f-a5a1-c7227c9b6841",
+            "keys": [
+                "Sunset Arms"
+            ],
+            "searchRange": 1000,
+            "enabled": true,
+            "forceActivation": false,
+            "keyRelative": false,
+            "nonStoryActivatable": false,
+            "category": "3e9dbc4f-8705-42e3-ba79-eadaf1f8b71a",
+            "loreBiasGroups": [
+                {
+                    "phrases": [],
+                    "ensureSequenceFinish": false,
+                    "generateOnce": true,
+                    "bias": 0,
+                    "enabled": true,
+                    "whenInactive": false
+                }
+            ]
+        },
+        {
+            "text": "[ The \"E,\" or the Bridgeport \"E,\" is the name given to the city's elevated subway system. It runs along a track above ground level and connects most of the major buildings in the city, including the Central Tower. The trains run on electricity generated by solar panels installed on top of each car, making them completely green energy sources. Each train consists of four cars and can hold up to 100 passengers. ]",
+            "contextConfig": {
+                "prefix": "",
+                "suffix": "\n",
+                "tokenBudget": 2048,
+                "reservedTokens": 0,
+                "budgetPriority": 400,
+                "trimDirection": "trimBottom",
+                "insertionType": "newline",
+                "maximumTrimType": "sentence",
+                "insertionPosition": -1
+            },
+            "lastUpdatedAt": 1672880476962,
+            "displayName": "The E",
+            "id": "e0a83b5d-9afb-4f44-9009-26918d4f2f48",
+            "keys": [
+                "The E",
+                "Bridgeport E",
+                "subway"
+            ],
+            "searchRange": 1000,
+            "enabled": true,
+            "forceActivation": false,
+            "keyRelative": false,
+            "nonStoryActivatable": false,
+            "category": "3e9dbc4f-8705-42e3-ba79-eadaf1f8b71a",
+            "loreBiasGroups": [
+                {
+                    "phrases": [],
+                    "ensureSequenceFinish": false,
+                    "generateOnce": true,
+                    "bias": 0,
+                    "enabled": true,
+                    "whenInactive": false
+                }
+            ]
+        },
+        {
+            "text": "[ The mayor is the highest-ranking official in any given municipality. They are elected by popular vote to serve for a term of four years. The mayor has the final say on all matters pertaining to their city, including law enforcement, public works, infrastructure, sanitation, and more. Mayors often have political aspirations beyond their current position, but it's not uncommon for them to be reelected multiple times before taking another post. ]",
+            "contextConfig": {
+                "prefix": "",
+                "suffix": "\n",
+                "tokenBudget": 2048,
+                "reservedTokens": 0,
+                "budgetPriority": 400,
+                "trimDirection": "trimBottom",
+                "insertionType": "newline",
+                "maximumTrimType": "sentence",
+                "insertionPosition": -1
+            },
+            "lastUpdatedAt": 1672873527197,
+            "displayName": "Mayor",
+            "id": "4ff13980-924a-4dd6-a842-c1b21809586e",
+            "keys": [
+                "mayor"
+            ],
+            "searchRange": 1000,
+            "enabled": true,
+            "forceActivation": false,
+            "keyRelative": false,
+            "nonStoryActivatable": false,
+            "category": "b6d2b717-98da-49be-9210-9a0f1f5d043f",
+            "loreBiasGroups": [
+                {
+                    "phrases": [],
+                    "ensureSequenceFinish": false,
+                    "generateOnce": true,
+                    "bias": 0,
+                    "enabled": true,
+                    "whenInactive": false
+                }
+            ]
+        },
+        {
+            "text": "[ The conductor is responsible for operating the train's controls and keeping the other passengers safe during their journey. They are also responsible for maintaining the train itself. Conductors wear black uniforms with red stripes down the sides, and carry a baton that they use to direct passengers onto and off of the train. They're often seen as authority figures who enforce rules and regulations. ]",
+            "contextConfig": {
+                "prefix": "",
+                "suffix": "\n",
+                "tokenBudget": 2048,
+                "reservedTokens": 0,
+                "budgetPriority": 400,
+                "trimDirection": "trimBottom",
+                "insertionType": "newline",
+                "maximumTrimType": "sentence",
+                "insertionPosition": -1
+            },
+            "lastUpdatedAt": 1672874755061,
+            "displayName": "Conductor",
+            "id": "c8e52caf-7223-4b33-8b63-85d5668cfd8b",
+            "keys": [
+                "conductor"
+            ],
+            "searchRange": 1000,
+            "enabled": true,
+            "forceActivation": false,
+            "keyRelative": false,
+            "nonStoryActivatable": false,
+            "category": "b6d2b717-98da-49be-9210-9a0f1f5d043f",
+            "loreBiasGroups": [
+                {
+                    "phrases": [],
+                    "ensureSequenceFinish": false,
+                    "generateOnce": true,
+                    "bias": 0,
+                    "enabled": true,
+                    "whenInactive": false
+                }
+            ]
+        },
+        {
+            "text": "[ Astronauts are the people who travel to other planets. They're trained in a variety of fields, including medicine, engineering and psychology. Their job is to ensure that humans can survive on another planet. This involves performing experiments on the surface of the moon or Mars, as well as maintaining equipment such as spacesuits and airlocks. Some astronauts also work with robots to perform tasks that would be too dangerous for humans. ]",
+            "contextConfig": {
+                "prefix": "",
+                "suffix": "\n",
+                "tokenBudget": 2048,
+                "reservedTokens": 0,
+                "budgetPriority": 400,
+                "trimDirection": "trimBottom",
+                "insertionType": "newline",
+                "maximumTrimType": "sentence",
+                "insertionPosition": -1
+            },
+            "lastUpdatedAt": 1672873774213,
+            "displayName": "Astronaut",
+            "id": "36329edb-8a8b-4318-9763-2e61fae52949",
+            "keys": [
+                "Astronaut"
+            ],
+            "searchRange": 1000,
+            "enabled": true,
+            "forceActivation": false,
+            "keyRelative": false,
+            "nonStoryActivatable": false,
+            "category": "b6d2b717-98da-49be-9210-9a0f1f5d043f",
+            "loreBiasGroups": [
+                {
+                    "phrases": [],
+                    "ensureSequenceFinish": false,
+                    "generateOnce": true,
+                    "bias": 0,
+                    "enabled": true,
+                    "whenInactive": false
+                }
+            ]
+        },
+        {
+            "text": "[ Professional athletes are a common sight in modern society, but they're not always the most popular people. Many fans resent their success and wealth while others idolize them as role models. However, one profession that has been embraced by the public is professional wrestling. The sport combines athleticism with theatrics to create an exciting spectacle for crowds of all ages. ]",
+            "contextConfig": {
+                "prefix": "",
+                "suffix": "\n",
+                "tokenBudget": 2048,
+                "reservedTokens": 0,
+                "budgetPriority": 400,
+                "trimDirection": "trimBottom",
+                "insertionType": "newline",
+                "maximumTrimType": "sentence",
+                "insertionPosition": -1
+            },
+            "lastUpdatedAt": 1672873854956,
+            "displayName": "Professional Athlete",
+            "id": "4f21b814-8624-47c1-9d4c-da1f0d0d943b",
+            "keys": [
+                "Professional Athlete",
+                "Athlete"
+            ],
+            "searchRange": 1000,
+            "enabled": true,
+            "forceActivation": false,
+            "keyRelative": false,
+            "nonStoryActivatable": false,
+            "category": "b6d2b717-98da-49be-9210-9a0f1f5d043f",
+            "loreBiasGroups": [
+                {
+                    "phrases": [],
+                    "ensureSequenceFinish": false,
+                    "generateOnce": true,
+                    "bias": 0,
+                    "enabled": true,
+                    "whenInactive": false
+                }
+            ]
+        },
+        {
+            "text": "[ Bodybuilders are fitness enthusiasts who take part in competitions such as Mr. Olympia or the Arnold Classic. They're known for their large muscles and impressive physiques, but they also have a reputation for being arrogant and conceited. Many bodybuilders believe that anyone can achieve their physique if they just work hard enough. Some even claim to be able to \"build muscle on demand\". ]",
+            "contextConfig": {
+                "prefix": "",
+                "suffix": "\n",
+                "tokenBudget": 2048,
+                "reservedTokens": 0,
+                "budgetPriority": 400,
+                "trimDirection": "trimBottom",
+                "insertionType": "newline",
+                "maximumTrimType": "sentence",
+                "insertionPosition": -1
+            },
+            "lastUpdatedAt": 1672873904003,
+            "displayName": "Bodybuilder ",
+            "id": "dda10c9d-7161-4534-b512-68b02ec0624b",
+            "keys": [
+                "Bodybuilder"
+            ],
+            "searchRange": 1000,
+            "enabled": true,
+            "forceActivation": false,
+            "keyRelative": false,
+            "nonStoryActivatable": false,
+            "category": "b6d2b717-98da-49be-9210-9a0f1f5d043f",
+            "loreBiasGroups": [
+                {
+                    "phrases": [],
+                    "ensureSequenceFinish": false,
+                    "generateOnce": true,
+                    "bias": 0,
+                    "enabled": true,
+                    "whenInactive": false
+                }
+            ]
+        },
+        {
+            "text": "[ Self-employed individuals are those who work for themselves. They may be entrepreneurs, freelancers or independent contractors. These people usually have a high degree of autonomy and control over their own schedule. Many self-employed workers also operate as small businesses. Some even go so far as to create their own companies or become CEOs of large corporations. Others prefer working alone and not being part of any company at all. ]",
+            "contextConfig": {
+                "prefix": "",
+                "suffix": "\n",
+                "tokenBudget": 2048,
+                "reservedTokens": 0,
+                "budgetPriority": 400,
+                "trimDirection": "trimBottom",
+                "insertionType": "newline",
+                "maximumTrimType": "sentence",
+                "insertionPosition": -1
+            },
+            "lastUpdatedAt": 1672873930840,
+            "displayName": "Self-Employed",
+            "id": "7cd90573-8ec2-4491-9484-15ef82788f0f",
+            "keys": [
+                "Self-Employed"
+            ],
+            "searchRange": 1000,
+            "enabled": true,
+            "forceActivation": false,
+            "keyRelative": false,
+            "nonStoryActivatable": false,
+            "category": "b6d2b717-98da-49be-9210-9a0f1f5d043f",
+            "loreBiasGroups": [
+                {
+                    "phrases": [],
+                    "ensureSequenceFinish": false,
+                    "generateOnce": true,
+                    "bias": 0,
+                    "enabled": true,
+                    "whenInactive": false
+                }
+            ]
+        },
+        {
+            "text": "[ Trendsetters are people who set trends in society. They're often seen as the \"cool kids\" and have a large influence on popular culture, but they can also be considered dangerous individuals with an unhealthy obsession for fashion. Their influence is so great that many celebrities have been known to copy their style, though this has led to some backlash against them. ]",
+            "contextConfig": {
+                "prefix": "",
+                "suffix": "\n",
+                "tokenBudget": 2048,
+                "reservedTokens": 0,
+                "budgetPriority": 400,
+                "trimDirection": "trimBottom",
+                "insertionType": "newline",
+                "maximumTrimType": "sentence",
+                "insertionPosition": -1
+            },
+            "lastUpdatedAt": 1672873957537,
+            "displayName": "Trendsetter",
+            "id": "35085693-4f17-47eb-9c91-696118658a20",
+            "keys": [
+                "Trendsetter"
+            ],
+            "searchRange": 1000,
+            "enabled": true,
+            "forceActivation": false,
+            "keyRelative": false,
+            "nonStoryActivatable": false,
+            "category": "b6d2b717-98da-49be-9210-9a0f1f5d043f",
+            "loreBiasGroups": [
+                {
+                    "phrases": [],
+                    "ensureSequenceFinish": false,
+                    "generateOnce": true,
+                    "bias": 0,
+                    "enabled": true,
+                    "whenInactive": false
+                }
+            ]
+        },
+        {
+            "text": "[ Covert Operators are a type of operative who operate in secret, often behind enemy lines. They use advanced technology to infiltrate hostile territory and gather intelligence. Their equipment includes night-vision goggles, thermal imaging devices, and various weapons. Some COs specialize in surveillance while others have combat training. Many work for private military companies or government agencies.\nAs a covert operator, you'll need to be able to blend into any situation. ]",
+            "contextConfig": {
+                "prefix": "",
+                "suffix": "\n",
+                "tokenBudget": 2048,
+                "reservedTokens": 0,
+                "budgetPriority": 400,
+                "trimDirection": "trimBottom",
+                "insertionType": "newline",
+                "maximumTrimType": "sentence",
+                "insertionPosition": -1
+            },
+            "lastUpdatedAt": 1672874117893,
+            "displayName": "Covert Operator",
+            "id": "17534190-ed23-43c2-baa2-ecb0ca7f66d2",
+            "keys": [
+                "Covert Operator"
+            ],
+            "searchRange": 1000,
+            "enabled": true,
+            "forceActivation": false,
+            "keyRelative": false,
+            "nonStoryActivatable": false,
+            "category": "b6d2b717-98da-49be-9210-9a0f1f5d043f",
+            "loreBiasGroups": [
+                {
+                    "phrases": [],
+                    "ensureSequenceFinish": false,
+                    "generateOnce": true,
+                    "bias": 0,
+                    "enabled": true,
+                    "whenInactive": false
+                }
+            ]
+        },
+        {
+            "text": "[ Computer engineers design and build computers, computer networks, and other electronic devices. They create software programs to control the operation of these devices, as well as develop new technologies that improve their functionality. Some are employed by large corporations while others work for smaller companies or even start their own businesses. Many computer engineers specialize in a particular field such as programming, hardware design, or networking. ]",
+            "contextConfig": {
+                "prefix": "",
+                "suffix": "\n",
+                "tokenBudget": 2048,
+                "reservedTokens": 0,
+                "budgetPriority": 400,
+                "trimDirection": "trimBottom",
+                "insertionType": "newline",
+                "maximumTrimType": "sentence",
+                "insertionPosition": -1
+            },
+            "lastUpdatedAt": 1672874143054,
+            "displayName": "Computer Engineer",
+            "id": "ff051377-af06-485e-bed5-d84a12f7dd9e",
+            "keys": [
+                "Computer Engineer"
+            ],
+            "searchRange": 1000,
+            "enabled": true,
+            "forceActivation": false,
+            "keyRelative": false,
+            "nonStoryActivatable": false,
+            "category": "b6d2b717-98da-49be-9210-9a0f1f5d043f",
+            "loreBiasGroups": [
+                {
+                    "phrases": [],
+                    "ensureSequenceFinish": false,
+                    "generateOnce": true,
+                    "bias": 0,
+                    "enabled": true,
+                    "whenInactive": false
+                }
+            ]
+        },
+        {
+            "text": "[ Civic planners are responsible for the development of cities and towns. They work with city officials to create plans that will ensure a safe, healthy environment for future generations. Their job is to make sure that new buildings are constructed according to regulations, and that existing structures are maintained in good condition. Civic planners also help communities develop zoning laws that prevent overcrowding or unsanitary conditions. ]",
+            "contextConfig": {
+                "prefix": "",
+                "suffix": "\n",
+                "tokenBudget": 2048,
+                "reservedTokens": 0,
+                "budgetPriority": 400,
+                "trimDirection": "trimBottom",
+                "insertionType": "newline",
+                "maximumTrimType": "sentence",
+                "insertionPosition": -1
+            },
+            "lastUpdatedAt": 1672874277547,
+            "displayName": "Civic Planner",
+            "id": "8065c537-90c1-4401-acd6-59afcb215a4b",
+            "keys": [
+                "Civic Planner"
+            ],
+            "searchRange": 1000,
+            "enabled": true,
+            "forceActivation": false,
+            "keyRelative": false,
+            "nonStoryActivatable": false,
+            "category": "b6d2b717-98da-49be-9210-9a0f1f5d043f",
+            "loreBiasGroups": [
+                {
+                    "phrases": [],
+                    "ensureSequenceFinish": false,
+                    "generateOnce": true,
+                    "bias": 0,
+                    "enabled": true,
+                    "whenInactive": false
+                }
+            ]
+        },
+        {
+            "text": "[ Baristas are the people who work in coffee shops. They prepare and serve drinks to customers, and make sure everything runs smoothly behind the scenes. Many baristas have a passion for coffee that goes beyond mere taste. Some even go on to open their own coffee shop or become roasters themselves. Others simply enjoy serving others with a smile. Whatever their reason, they're all dedicated to making sure everyone has a great cup of joe. ]",
+            "contextConfig": {
+                "prefix": "",
+                "suffix": "\n",
+                "tokenBudget": 2048,
+                "reservedTokens": 0,
+                "budgetPriority": 400,
+                "trimDirection": "trimBottom",
+                "insertionType": "newline",
+                "maximumTrimType": "sentence",
+                "insertionPosition": -1
+            },
+            "lastUpdatedAt": 1672874393101,
+            "displayName": "Barista",
+            "id": "78673b49-efe5-49ba-85f0-43107e8ff056",
+            "keys": [
+                "Barista"
+            ],
+            "searchRange": 1000,
+            "enabled": true,
+            "forceActivation": false,
+            "keyRelative": false,
+            "nonStoryActivatable": false,
+            "category": "b6d2b717-98da-49be-9210-9a0f1f5d043f",
+            "loreBiasGroups": [
+                {
+                    "phrases": [],
+                    "ensureSequenceFinish": false,
+                    "generateOnce": true,
+                    "bias": 0,
+                    "enabled": true,
+                    "whenInactive": false
+                }
+            ]
+        },
+        {
+            "text": "[ A judge is a person who decides legal disputes. They are usually appointed by the government and serve as arbitrators between parties in civil cases, or judges of criminal trials. Judges can also be elected to office if they wish to become politicians themselves. Some judges specialize in certain areas such as family law, property disputes, or intellectual property rights. Most judges wear robes with black sashes, but some prefer to dress more casually. ]",
+            "contextConfig": {
+                "prefix": "",
+                "suffix": "\n",
+                "tokenBudget": 2048,
+                "reservedTokens": 0,
+                "budgetPriority": 400,
+                "trimDirection": "trimBottom",
+                "insertionType": "newline",
+                "maximumTrimType": "sentence",
+                "insertionPosition": -1
+            },
+            "lastUpdatedAt": 1672874543191,
+            "displayName": "Judge",
+            "id": "07d86c9f-e1f7-4fbe-a744-b409fbc4e3ea",
+            "keys": [
+                "Judge"
+            ],
+            "searchRange": 1000,
+            "enabled": true,
+            "forceActivation": false,
+            "keyRelative": false,
+            "nonStoryActivatable": false,
+            "category": "b6d2b717-98da-49be-9210-9a0f1f5d043f",
+            "loreBiasGroups": [
+                {
+                    "phrases": [],
+                    "ensureSequenceFinish": false,
+                    "generateOnce": true,
+                    "bias": 0,
+                    "enabled": true,
+                    "whenInactive": false
+                }
+            ]
+        },
+        {
+            "text": "[ Private attorneys are licensed to represent clients in civil and criminal cases. They work for individuals, corporations or government agencies, and they're often hired by those who can't afford a public defender. A private attorney's job is to defend their client against charges brought before the court. The term \"private\" refers to the fact that these lawyers aren't employed by any particular organization. ]",
+            "contextConfig": {
+                "prefix": "",
+                "suffix": "\n",
+                "tokenBudget": 2048,
+                "reservedTokens": 0,
+                "budgetPriority": 400,
+                "trimDirection": "trimBottom",
+                "insertionType": "newline",
+                "maximumTrimType": "sentence",
+                "insertionPosition": -1
+            },
+            "lastUpdatedAt": 1672874590175,
+            "displayName": "Private Attorney",
+            "id": "c61f3259-3fa7-4c08-a203-91f7300016b4",
+            "keys": [
+                "Private Attorney"
+            ],
+            "searchRange": 1000,
+            "enabled": true,
+            "forceActivation": false,
+            "keyRelative": false,
+            "nonStoryActivatable": false,
+            "category": "b6d2b717-98da-49be-9210-9a0f1f5d043f",
+            "loreBiasGroups": [
+                {
+                    "phrases": [],
+                    "ensureSequenceFinish": false,
+                    "generateOnce": true,
+                    "bias": 0,
+                    "enabled": true,
+                    "whenInactive": false
+                }
+            ]
+        },
+        {
+            "text": "[ Start-Up Entrepreneurs are people who create new businesses and make money from them. They often work for themselves, but sometimes they're employed by larger companies or organizations. Some start-ups become very successful while others fail within months. The field is highly competitive and requires a lot of hard work to succeed. Many entrepreneurs have been able to quit their day jobs because of the success of their business. ]",
+            "contextConfig": {
+                "prefix": "",
+                "suffix": "\n",
+                "tokenBudget": 2048,
+                "reservedTokens": 0,
+                "budgetPriority": 400,
+                "trimDirection": "trimBottom",
+                "insertionType": "newline",
+                "maximumTrimType": "sentence",
+                "insertionPosition": -1
+            },
+            "lastUpdatedAt": 1672874669711,
+            "displayName": "Start-up Entrepreneur",
+            "id": "84f593da-df6c-40ef-bd13-c58809fb9827",
+            "keys": [
+                "Start-up Entrepreneur"
+            ],
+            "searchRange": 1000,
+            "enabled": true,
+            "forceActivation": false,
+            "keyRelative": false,
+            "nonStoryActivatable": false,
+            "category": "b6d2b717-98da-49be-9210-9a0f1f5d043f",
+            "loreBiasGroups": [
+                {
+                    "phrases": [],
+                    "ensureSequenceFinish": false,
+                    "generateOnce": true,
+                    "bias": 0,
+                    "enabled": true,
+                    "whenInactive": false
+                }
+            ]
+        },
+        {
+            "text": "[ Journalists are reporters who write articles for newspapers and magazines. They often cover stories about crime, politics, or sports. Their job is to gather information from sources such as eyewitnesses, police reports, and other news outlets. Some journalists also work for television stations or radio programs. They're usually paid by the word, so they have to write a lot of articles in order to earn enough money. ]",
+            "contextConfig": {
+                "prefix": "",
+                "suffix": "\n",
+                "tokenBudget": 2048,
+                "reservedTokens": 0,
+                "budgetPriority": 400,
+                "trimDirection": "trimBottom",
+                "insertionType": "newline",
+                "maximumTrimType": "sentence",
+                "insertionPosition": -1
+            },
+            "lastUpdatedAt": 1672874697046,
+            "displayName": "Journalist",
+            "id": "d63d7d6f-f019-4d9c-94c2-e90596195744",
+            "keys": [
+                "Journalist"
+            ],
+            "searchRange": 1000,
+            "enabled": true,
+            "forceActivation": false,
+            "keyRelative": false,
+            "nonStoryActivatable": false,
+            "category": "b6d2b717-98da-49be-9210-9a0f1f5d043f",
+            "loreBiasGroups": [
+                {
+                    "phrases": [],
+                    "ensureSequenceFinish": false,
+                    "generateOnce": true,
+                    "bias": 0,
+                    "enabled": true,
+                    "whenInactive": false
+                }
+            ]
+        },
+        {
+            "text": "[ Investors are individuals who invest money in businesses or projects. They're often wealthy businessmen and women, but they can also be ordinary people with a lot of money to spare. Investors may choose to invest in anything from real estate development to new technologies, but their main goal is to make money. Some investors even go so far as to create artificial monopolies by buying up all the available shares of a company. ]",
+            "contextConfig": {
+                "prefix": "",
+                "suffix": "\n",
+                "tokenBudget": 2048,
+                "reservedTokens": 0,
+                "budgetPriority": 400,
+                "trimDirection": "trimBottom",
+                "insertionType": "newline",
+                "maximumTrimType": "sentence",
+                "insertionPosition": -1
+            },
+            "lastUpdatedAt": 1672874731834,
+            "displayName": "Investor",
+            "id": "f2910770-2e0d-4692-b402-dfedc2e15f76",
+            "keys": [
+                "Investor"
+            ],
+            "searchRange": 1000,
+            "enabled": true,
+            "forceActivation": false,
+            "keyRelative": false,
+            "nonStoryActivatable": false,
+            "category": "b6d2b717-98da-49be-9210-9a0f1f5d043f",
+            "loreBiasGroups": [
+                {
+                    "phrases": [],
+                    "ensureSequenceFinish": false,
+                    "generateOnce": true,
+                    "bias": 0,
+                    "enabled": true,
+                    "whenInactive": false
+                }
+            ]
+        },
+        {
+            "text": "[ Internet personalities are individuals who have gained popularity on the internet. They often post videos and images of themselves online, and can be found in many different forums. Some of these people have become very wealthy as a result of their fame. Others have been driven to suicide by their fans. Many people believe that this is an unhealthy way for people to spend their time, but others say it's harmless fun. ]",
+            "contextConfig": {
+                "prefix": "",
+                "suffix": "\n",
+                "tokenBudget": 2048,
+                "reservedTokens": 0,
+                "budgetPriority": 400,
+                "trimDirection": "trimBottom",
+                "insertionType": "newline",
+                "maximumTrimType": "sentence",
+                "insertionPosition": -1
+            },
+            "lastUpdatedAt": 1672874787859,
+            "displayName": "Internet Personality",
+            "id": "1d647ee3-9a58-4a80-9b74-45493d04f8f1",
+            "keys": [
+                "Internet Personality"
+            ],
+            "searchRange": 1000,
+            "enabled": true,
+            "forceActivation": false,
+            "keyRelative": false,
+            "nonStoryActivatable": false,
+            "category": "b6d2b717-98da-49be-9210-9a0f1f5d043f",
+            "loreBiasGroups": [
+                {
+                    "phrases": [],
+                    "ensureSequenceFinish": false,
+                    "generateOnce": true,
+                    "bias": 0,
+                    "enabled": true,
+                    "whenInactive": false
+                }
+            ]
+        },
+        {
+            "text": "[ Public relations specialists are responsible for maintaining the image of a company or organization. They're often employed by large corporations and work to ensure that their clients' public images remain positive. Their job is to make sure people see things in the best possible light, which can involve writing press releases, making speeches, giving interviews, or even staging events. Some PR specialists specialize in dealing with the media while others focus on internal communications within an organization. ]",
+            "contextConfig": {
+                "prefix": "",
+                "suffix": "\n",
+                "tokenBudget": 2048,
+                "reservedTokens": 0,
+                "budgetPriority": 400,
+                "trimDirection": "trimBottom",
+                "insertionType": "newline",
+                "maximumTrimType": "sentence",
+                "insertionPosition": -1
+            },
+            "lastUpdatedAt": 1672874813185,
+            "displayName": "Public Relations",
+            "id": "3d602859-dbdb-4738-adc1-0649d06cd513",
+            "keys": [
+                "Public Relations"
+            ],
+            "searchRange": 1000,
+            "enabled": true,
+            "forceActivation": false,
+            "keyRelative": false,
+            "nonStoryActivatable": false,
+            "category": "b6d2b717-98da-49be-9210-9a0f1f5d043f",
+            "loreBiasGroups": [
+                {
+                    "phrases": [],
+                    "ensureSequenceFinish": false,
+                    "generateOnce": true,
+                    "bias": 0,
+                    "enabled": true,
+                    "whenInactive": false
+                }
+            ]
+        },
+        {
+            "text": "[ Grand Central Station is a large building located beneath Bridgeport's Central Tower. It's used for both regional and subway trains. It has several platforms where trains arrive and depart from, but it also features a large central area with shops and restaurants. There are two entrances, one facing north and another facing south. Both have long escalators leading down into the station. ]",
+            "contextConfig": {
+                "prefix": "",
+                "suffix": "\n",
+                "tokenBudget": 2048,
+                "reservedTokens": 0,
+                "budgetPriority": 400,
+                "trimDirection": "trimBottom",
+                "insertionType": "newline",
+                "maximumTrimType": "sentence",
+                "insertionPosition": -1
+            },
+            "lastUpdatedAt": 1672882433221,
+            "displayName": "Grand Central Station",
+            "id": "ccefd1e1-826c-4f71-9c70-35d185ed6844",
+            "keys": [
+                "Grand Central Station",
+                "Grand Central"
+            ],
+            "searchRange": 1000,
+            "enabled": true,
+            "forceActivation": false,
+            "keyRelative": false,
+            "nonStoryActivatable": false,
+            "category": "3e9dbc4f-8705-42e3-ba79-eadaf1f8b71a",
+            "loreBiasGroups": [
+                {
+                    "phrases": [],
+                    "ensureSequenceFinish": false,
+                    "generateOnce": true,
+                    "bias": 0,
+                    "enabled": true,
+                    "whenInactive": false
+                }
+            ]
+        },
+        {
+            "text": "The Sunrise Express is an old-fashioned sleeper car that runs on rails. It has two levels, one above and one below ground level. The upper level contains a large dining area where passengers can enjoy meals or relax while watching movies. There's also a small lounge area where people can play games or read books. The lower level contains sleeping compartments for up to four people each.",
+            "contextConfig": {
+                "prefix": "",
+                "suffix": "\n",
+                "tokenBudget": 2048,
+                "reservedTokens": 0,
+                "budgetPriority": 400,
+                "trimDirection": "trimBottom",
+                "insertionType": "newline",
+                "maximumTrimType": "sentence",
+                "insertionPosition": -1
+            },
+            "lastUpdatedAt": 1672878661381,
+            "displayName": "Sunrise Express",
+            "id": "722c93d9-2f6c-4098-bb4e-ac20404dfc31",
+            "keys": [
+                "Sunrise Express"
+            ],
+            "searchRange": 1000,
+            "enabled": true,
+            "forceActivation": false,
+            "keyRelative": false,
+            "nonStoryActivatable": false,
+            "category": "17cd8608-77fa-42aa-a508-6acdccba4ccc",
+            "loreBiasGroups": [
+                {
+                    "phrases": [],
+                    "ensureSequenceFinish": false,
+                    "generateOnce": true,
+                    "bias": 0,
+                    "enabled": true,
+                    "whenInactive": false
+                }
+            ]
+        },
+        {
+            "text": "[ Astronomers are scientists who study the stars and planets. They use telescopes to observe celestial objects, such as nebulae, galaxies, and black holes. Some astronomers specialize in observing planets outside of our solar system, while others focus on studying Earth's atmosphere or its moon. Most astronomers work for universities or research institutes, but some go into private industry. ]",
+            "contextConfig": {
+                "prefix": "",
+                "suffix": "\n",
+                "tokenBudget": 2048,
+                "reservedTokens": 0,
+                "budgetPriority": 400,
+                "trimDirection": "trimBottom",
+                "insertionType": "newline",
+                "maximumTrimType": "sentence",
+                "insertionPosition": -1
+            },
+            "lastUpdatedAt": 1672878971826,
+            "displayName": "Astronomer",
+            "id": "19b77c88-ad6c-49d7-b3f7-1cd7ceb20ff6",
+            "keys": [
+                "Astronomer"
+            ],
+            "searchRange": 1000,
+            "enabled": true,
+            "forceActivation": false,
+            "keyRelative": false,
+            "nonStoryActivatable": false,
+            "category": "b6d2b717-98da-49be-9210-9a0f1f5d043f",
+            "loreBiasGroups": [
+                {
+                    "phrases": [],
+                    "ensureSequenceFinish": false,
+                    "generateOnce": true,
+                    "bias": 0,
+                    "enabled": true,
+                    "whenInactive": false
+                }
+            ]
+        },
+        {
+            "text": "[ Firefighters are the men and women who run into burning buildings to save people. They're brave, selfless individuals who put their lives on the line for others. Many of them have died in the line of duty while saving civilians from harm. Some firefighters even go above and beyond the call of duty by rescuing cats stuck up trees or dogs that have fallen into rivers. ]",
+            "contextConfig": {
+                "prefix": "",
+                "suffix": "\n",
+                "tokenBudget": 2048,
+                "reservedTokens": 0,
+                "budgetPriority": 400,
+                "trimDirection": "trimBottom",
+                "insertionType": "newline",
+                "maximumTrimType": "sentence",
+                "insertionPosition": -1
+            },
+            "lastUpdatedAt": 1672879045886,
+            "displayName": "Firefighter",
+            "id": "f4bab70c-cfee-4819-a0d6-9589fd01dce3",
+            "keys": [
+                "Firefighter"
+            ],
+            "searchRange": 1000,
+            "enabled": true,
+            "forceActivation": false,
+            "keyRelative": false,
+            "nonStoryActivatable": false,
+            "category": "b6d2b717-98da-49be-9210-9a0f1f5d043f",
+            "loreBiasGroups": [
+                {
+                    "phrases": [],
+                    "ensureSequenceFinish": false,
+                    "generateOnce": true,
+                    "bias": 0,
+                    "enabled": true,
+                    "whenInactive": false
+                }
+            ]
+        },
+        {
+            "text": "[ Photographers are people who take photographs of things. They're often employed by newspapers and magazines, but they can also be freelance photographers or even hobbyists. Some photographers specialize in taking pictures of certain subjects such as landscapes, wildlife, portraits, etc., while others may focus on a specific type of photography like underwater photography or astrophotography. Photographers use cameras to capture images that will later be printed onto paper. ]",
+            "contextConfig": {
+                "prefix": "",
+                "suffix": "\n",
+                "tokenBudget": 2048,
+                "reservedTokens": 0,
+                "budgetPriority": 400,
+                "trimDirection": "trimBottom",
+                "insertionType": "newline",
+                "maximumTrimType": "sentence",
+                "insertionPosition": -1
+            },
+            "lastUpdatedAt": 1672879080135,
+            "displayName": "Photographer",
+            "id": "5c9defcc-1039-43f9-a427-97338d4cd218",
+            "keys": [
+                "Photographer"
+            ],
+            "searchRange": 1000,
+            "enabled": true,
+            "forceActivation": false,
+            "keyRelative": false,
+            "nonStoryActivatable": false,
+            "category": "b6d2b717-98da-49be-9210-9a0f1f5d043f",
+            "loreBiasGroups": [
+                {
+                    "phrases": [],
+                    "ensureSequenceFinish": false,
+                    "generateOnce": true,
+                    "bias": 0,
+                    "enabled": true,
+                    "whenInactive": false
+                }
+            ]
+        },
+        {
+            "text": "[ Musicians are a common sight in the streets of Bridgeport. They can be seen playing instruments such as guitars, violins and flutes on street corners or subway platforms. Most musicians make their living by performing at parties, concerts, clubs, restaurants, and other venues around town. Some even perform for tips from passersby. Others prefer to play music for money, but they must pay taxes like everyone else. ]",
+            "contextConfig": {
+                "prefix": "",
+                "suffix": "\n",
+                "tokenBudget": 2048,
+                "reservedTokens": 0,
+                "budgetPriority": 400,
+                "trimDirection": "trimBottom",
+                "insertionType": "newline",
+                "maximumTrimType": "sentence",
+                "insertionPosition": -1
+            },
+            "lastUpdatedAt": 1672879952779,
+            "displayName": "Musician",
+            "id": "9d94df13-ec07-4786-b099-30fbf8fd2919",
+            "keys": [
+                "Musician"
+            ],
+            "searchRange": 1000,
+            "enabled": true,
+            "forceActivation": false,
+            "keyRelative": false,
+            "nonStoryActivatable": false,
+            "category": "b6d2b717-98da-49be-9210-9a0f1f5d043f",
+            "loreBiasGroups": [
+                {
+                    "phrases": [],
+                    "ensureSequenceFinish": false,
+                    "generateOnce": true,
+                    "bias": 0,
+                    "enabled": true,
+                    "whenInactive": false
+                }
+            ]
+        },
+        {
+            "text": "[ Comedians are entertainers who make jokes about the world around them. They often use humor to address serious issues, such as poverty or pollution. Some comedians have become very famous and wealthy through their work, but most earn a modest living by performing at small venues. Many of these performers also write books or appear in television shows. The profession is known for its high turnover rate due to the difficulty of finding success. ]",
+            "contextConfig": {
+                "prefix": "",
+                "suffix": "\n",
+                "tokenBudget": 2048,
+                "reservedTokens": 0,
+                "budgetPriority": 400,
+                "trimDirection": "trimBottom",
+                "insertionType": "newline",
+                "maximumTrimType": "sentence",
+                "insertionPosition": -1
+            },
+            "lastUpdatedAt": 1672879977227,
+            "displayName": "Comedian",
+            "id": "73369d9c-dd2f-4612-8366-63458e5214c2",
+            "keys": [
+                "Comedian"
+            ],
+            "searchRange": 1000,
+            "enabled": true,
+            "forceActivation": false,
+            "keyRelative": false,
+            "nonStoryActivatable": false,
+            "category": "b6d2b717-98da-49be-9210-9a0f1f5d043f",
+            "loreBiasGroups": [
+                {
+                    "phrases": [],
+                    "ensureSequenceFinish": false,
+                    "generateOnce": true,
+                    "bias": 0,
+                    "enabled": true,
+                    "whenInactive": false
+                }
+            ]
+        },
+        {
+            "text": "[ eSports are a popular form of entertainment in which players compete against each other using video games. They're usually played online, but can also be played offline with friends or strangers. The most common type is \"first-person shooters\", where players use guns to shoot enemies and score points. Other types include fighting games, sports games, and strategy games. ]",
+            "contextConfig": {
+                "prefix": "",
+                "suffix": "\n",
+                "tokenBudget": 2048,
+                "reservedTokens": 0,
+                "budgetPriority": 400,
+                "trimDirection": "trimBottom",
+                "insertionType": "newline",
+                "maximumTrimType": "sentence",
+                "insertionPosition": -1
+            },
+            "lastUpdatedAt": 1672880088049,
+            "displayName": "eSport Gamer",
+            "id": "7e900193-a1bd-4cad-967c-1b247192aebf",
+            "keys": [
+                "Pro Gamer",
+                "eSport Gamer"
+            ],
+            "searchRange": 1000,
+            "enabled": true,
+            "forceActivation": false,
+            "keyRelative": false,
+            "nonStoryActivatable": false,
+            "category": "b6d2b717-98da-49be-9210-9a0f1f5d043f",
+            "loreBiasGroups": [
+                {
+                    "phrases": [],
+                    "ensureSequenceFinish": false,
+                    "generateOnce": true,
+                    "bias": 0,
+                    "enabled": true,
+                    "whenInactive": false
+                }
+            ]
+        },
+        {
+            "text": "[ Botanists are scientists who study plants. They're often employed by the military, but they can also be found in universities and other research facilities. Their work involves studying plant life, including their growth patterns, reproduction methods, and interactions with other organisms. Some botanists specialize in a particular type of plant while others study all types. Botanists may also conduct experiments on how to improve crop yields or increase resistance to disease. ]",
+            "contextConfig": {
+                "prefix": "",
+                "suffix": "\n",
+                "tokenBudget": 2048,
+                "reservedTokens": 0,
+                "budgetPriority": 400,
+                "trimDirection": "trimBottom",
+                "insertionType": "newline",
+                "maximumTrimType": "sentence",
+                "insertionPosition": -1
+            },
+            "lastUpdatedAt": 1672880121462,
+            "displayName": "Botanist",
+            "id": "36cf51ae-7292-4f3e-9a86-02f2a11fc67d",
+            "keys": [
+                "Botanist"
+            ],
+            "searchRange": 1000,
+            "enabled": true,
+            "forceActivation": false,
+            "keyRelative": false,
+            "nonStoryActivatable": false,
+            "category": "b6d2b717-98da-49be-9210-9a0f1f5d043f",
+            "loreBiasGroups": [
+                {
+                    "phrases": [],
+                    "ensureSequenceFinish": false,
+                    "generateOnce": true,
+                    "bias": 0,
+                    "enabled": true,
+                    "whenInactive": false
+                }
+            ]
+        },
+        {
+            "text": "[ Floral designers create arrangements of flowers and plants for special occasions such as weddings, funerals, or other events. They may also arrange bouquets for delivery to hospitals or nursing homes. Their work is often seen in movies and television shows, where they are portrayed as eccentric individuals who spend their days creating beautiful displays. Florists typically have a wide variety of skills, including knowledge of botany, chemistry, and horticulture. ]",
+            "contextConfig": {
+                "prefix": "",
+                "suffix": "\n",
+                "tokenBudget": 2048,
+                "reservedTokens": 0,
+                "budgetPriority": 400,
+                "trimDirection": "trimBottom",
+                "insertionType": "newline",
+                "maximumTrimType": "sentence",
+                "insertionPosition": -1
+            },
+            "lastUpdatedAt": 1672880142919,
+            "displayName": "Floral Designer",
+            "id": "f12a87ee-a207-4ddc-91a8-90c8718f34ba",
+            "keys": [
+                "Floral Designer"
+            ],
+            "searchRange": 1000,
+            "enabled": true,
+            "forceActivation": false,
+            "keyRelative": false,
+            "nonStoryActivatable": false,
+            "category": "b6d2b717-98da-49be-9210-9a0f1f5d043f",
+            "loreBiasGroups": [
+                {
+                    "phrases": [],
+                    "ensureSequenceFinish": false,
+                    "generateOnce": true,
+                    "bias": 0,
+                    "enabled": true,
+                    "whenInactive": false
+                }
+            ]
+        },
+        {
+            "text": "[ The profession of actor is one that requires a great deal of skill and training. Actors must be able to perform in front of large crowds, while also being able to convey emotion through their voice alone. They are often required to memorize entire scripts and recite them flawlessly without the aid of props or other actors. An actor's job can be very stressful, as they're expected to act out multiple roles at once. ]",
+            "contextConfig": {
+                "prefix": "",
+                "suffix": "\n",
+                "tokenBudget": 2048,
+                "reservedTokens": 0,
+                "budgetPriority": 400,
+                "trimDirection": "trimBottom",
+                "insertionType": "newline",
+                "maximumTrimType": "sentence",
+                "insertionPosition": -1
+            },
+            "lastUpdatedAt": 1672880183659,
+            "displayName": "Actor",
+            "id": "2519b6a4-cee1-4df3-b4b6-e500aa8f0de7",
+            "keys": [
+                "Actor"
+            ],
+            "searchRange": 1000,
+            "enabled": true,
+            "forceActivation": false,
+            "keyRelative": false,
+            "nonStoryActivatable": false,
+            "category": "b6d2b717-98da-49be-9210-9a0f1f5d043f",
+            "loreBiasGroups": [
+                {
+                    "phrases": [],
+                    "ensureSequenceFinish": false,
+                    "generateOnce": true,
+                    "bias": 0,
+                    "enabled": true,
+                    "whenInactive": false
+                }
+            ]
+        },
+        {
+            "text": "[ Corporate supervisors oversee the day-to-day operations of a corporation. They are responsible for ensuring that employees follow company policies and procedures, and they must deal with any problems that arise within their organization. Most corporate supervisors work in offices, but some may be required to travel to other locations. Some corporations have multiple supervisors working together as a team, while others may only have one supervisor overseeing an entire department or division. ]",
+            "contextConfig": {
+                "prefix": "",
+                "suffix": "\n",
+                "tokenBudget": 2048,
+                "reservedTokens": 0,
+                "budgetPriority": 400,
+                "trimDirection": "trimBottom",
+                "insertionType": "newline",
+                "maximumTrimType": "sentence",
+                "insertionPosition": -1
+            },
+            "lastUpdatedAt": 1672880311501,
+            "displayName": "Supervisor",
+            "id": "db0b93b2-3fae-4f8e-bde9-aa14d4f3a688",
+            "keys": [
+                "Supervisor"
+            ],
+            "searchRange": 1000,
+            "enabled": true,
+            "forceActivation": false,
+            "keyRelative": false,
+            "nonStoryActivatable": false,
+            "category": "b6d2b717-98da-49be-9210-9a0f1f5d043f",
+            "loreBiasGroups": [
+                {
+                    "phrases": [],
+                    "ensureSequenceFinish": false,
+                    "generateOnce": true,
+                    "bias": 0,
+                    "enabled": true,
+                    "whenInactive": false
+                }
+            ]
+        },
+        {
+            "text": "[ The credit card was invented in the year 2000 by a man named Jack Goldsmith. It is a plastic card with an embedded microchip that stores information about the holder, including their name, address and bank account details. The card can be used to make purchases at any store that accepts it as payment, or to withdraw cash from an ATM machine. Credit cards are widely accepted throughout the world today. ]",
+            "contextConfig": {
+                "prefix": "",
+                "suffix": "\n",
+                "tokenBudget": 2048,
+                "reservedTokens": 0,
+                "budgetPriority": 400,
+                "trimDirection": "trimBottom",
+                "insertionType": "newline",
+                "maximumTrimType": "sentence",
+                "insertionPosition": -1
+            },
+            "lastUpdatedAt": 1672881293102,
+            "displayName": "Credit Card",
+            "id": "ce67a015-4140-4201-b0e5-eb43d3b5ebb0",
+            "keys": [
+                "Credit Card",
+                "Credit"
+            ],
+            "searchRange": 1000,
+            "enabled": true,
+            "forceActivation": false,
+            "keyRelative": false,
+            "nonStoryActivatable": false,
+            "category": "17cd8608-77fa-42aa-a508-6acdccba4ccc",
+            "loreBiasGroups": [
+                {
+                    "phrases": [],
+                    "ensureSequenceFinish": false,
+                    "generateOnce": true,
+                    "bias": 0,
+                    "enabled": true,
+                    "whenInactive": false
+                }
+            ]
+        },
+        {
+            "text": "[ Debit cards are plastic cards that can be used to make purchases. They contain a microchip which stores information about the user, including their bank account details and credit limit. Some companies offer rewards for using them - such as discounts or free items - but these offers often come with conditions that must be met before they're valid. In some cases, you'll need to spend a certain amount of money in order to qualify for the reward. ]",
+            "contextConfig": {
+                "prefix": "",
+                "suffix": "\n",
+                "tokenBudget": 2048,
+                "reservedTokens": 0,
+                "budgetPriority": 400,
+                "trimDirection": "trimBottom",
+                "insertionType": "newline",
+                "maximumTrimType": "sentence",
+                "insertionPosition": -1
+            },
+            "lastUpdatedAt": 1672881550677,
+            "displayName": "Debit Card",
+            "id": "748e2c8f-95fd-4ee1-92ea-ce31fa2d996f",
+            "keys": [
+                "Debit Card",
+                "debit"
+            ],
+            "searchRange": 1000,
+            "enabled": true,
+            "forceActivation": false,
+            "keyRelative": false,
+            "nonStoryActivatable": false,
+            "category": "17cd8608-77fa-42aa-a508-6acdccba4ccc",
+            "loreBiasGroups": [
+                {
+                    "phrases": [],
+                    "ensureSequenceFinish": false,
+                    "generateOnce": true,
+                    "bias": 0,
+                    "enabled": true,
+                    "whenInactive": false
+                }
+            ]
+        },
+        {
+            "text": "[ The MetroCard is a plastic card issued by the Transit Authority of Bridgeport. They're used for fare payments for the city's public transit system, which includes buses, subways, and ferries. There are several different types of cards available, but they all have the same function - you just swipe it across the reader when boarding a vehicle. ]",
+            "contextConfig": {
+                "prefix": "",
+                "suffix": "\n",
+                "tokenBudget": 2048,
+                "reservedTokens": 0,
+                "budgetPriority": 400,
+                "trimDirection": "trimBottom",
+                "insertionType": "newline",
+                "maximumTrimType": "sentence",
+                "insertionPosition": -1
+            },
+            "lastUpdatedAt": 1672880757274,
+            "displayName": "Metro Card",
+            "id": "2efec964-0c50-41b7-a892-739916c75b86",
+            "keys": [
+                "Metro Card",
+                "MetroCard"
+            ],
+            "searchRange": 1000,
+            "enabled": true,
+            "forceActivation": false,
+            "keyRelative": false,
+            "nonStoryActivatable": false,
+            "category": "17cd8608-77fa-42aa-a508-6acdccba4ccc",
+            "loreBiasGroups": [
+                {
+                    "phrases": [],
+                    "ensureSequenceFinish": false,
+                    "generateOnce": true,
+                    "bias": 0,
+                    "enabled": true,
+                    "whenInactive": false
+                }
+            ]
+        },
+        {
+            "text": "[ Vendors are a common sight in the modern world, but they've been around for thousands of years. The first vending machine was invented by an Italian inventor named Antonio Meucci in 1887. His invention consisted of a large box with a slot on top and a crank handle on the side. Coins were inserted into the slot, which then dispensed items inside. ]",
+            "contextConfig": {
+                "prefix": "",
+                "suffix": "\n",
+                "tokenBudget": 2048,
+                "reservedTokens": 0,
+                "budgetPriority": 400,
+                "trimDirection": "trimBottom",
+                "insertionType": "newline",
+                "maximumTrimType": "sentence",
+                "insertionPosition": -1
+            },
+            "lastUpdatedAt": 1672881446486,
+            "displayName": "Vending machines",
+            "id": "dc3e8185-f734-4a98-8cc3-5375d20393cf",
+            "keys": [
+                "Vending machine"
+            ],
+            "searchRange": 1000,
+            "enabled": true,
+            "forceActivation": false,
+            "keyRelative": false,
+            "nonStoryActivatable": false,
+            "category": "17cd8608-77fa-42aa-a508-6acdccba4ccc",
+            "loreBiasGroups": [
+                {
+                    "phrases": [],
+                    "ensureSequenceFinish": false,
+                    "generateOnce": true,
+                    "bias": 0,
+                    "enabled": true,
+                    "whenInactive": false
+                }
+            ]
+        },
+        {
+            "text": "[ The MultiPhone was invented by Dr. Theodore Paw, a scientist who developed it as part of his research into artificial intelligence. It's an advanced piece of technology that allows users to access information through voice commands alone. The device has a built-in camera, microphone, speaker, and screen, which can be used for taking pictures or making video calls. ]",
+            "contextConfig": {
+                "prefix": "",
+                "suffix": "\n",
+                "tokenBudget": 2048,
+                "reservedTokens": 0,
+                "budgetPriority": 400,
+                "trimDirection": "trimBottom",
+                "insertionType": "newline",
+                "maximumTrimType": "sentence",
+                "insertionPosition": -1
+            },
+            "lastUpdatedAt": 1672882378639,
+            "displayName": "MultiPhone",
+            "id": "5d39681d-35ca-4722-a0b3-719dc7e93856",
+            "keys": [
+                "MultiPhone",
+                "smartphone",
+                "phone"
+            ],
+            "searchRange": 1000,
+            "enabled": true,
+            "forceActivation": false,
+            "keyRelative": false,
+            "nonStoryActivatable": false,
+            "category": "17cd8608-77fa-42aa-a508-6acdccba4ccc",
+            "loreBiasGroups": [
+                {
+                    "phrases": [],
+                    "ensureSequenceFinish": false,
+                    "generateOnce": true,
+                    "bias": 0,
+                    "enabled": true,
+                    "whenInactive": false
+                }
+            ]
+        },
+        {
+            "text": "[ The MultiTab is a tablet computer designed by Dr. Theodore Paw. It features a touchscreen display and a camera, allowing users to take photos and make video calls. It also includes a virtual keyboard and stylus for writing notes. It comes with a variety of applications installed, including a web browser, email client, calendar app, calculator, and more. ]",
+            "contextConfig": {
+                "prefix": "",
+                "suffix": "\n",
+                "tokenBudget": 2048,
+                "reservedTokens": 0,
+                "budgetPriority": 400,
+                "trimDirection": "trimBottom",
+                "insertionType": "newline",
+                "maximumTrimType": "sentence",
+                "insertionPosition": -1
+            },
+            "lastUpdatedAt": 1672881734089,
+            "displayName": "MultiTab",
+            "id": "aa1f96aa-623e-4b16-a803-bcc42c88f97d",
+            "keys": [
+                "MultiTab",
+                "tablet"
+            ],
+            "searchRange": 1000,
+            "enabled": true,
+            "forceActivation": false,
+            "keyRelative": false,
+            "nonStoryActivatable": false,
+            "category": "17cd8608-77fa-42aa-a508-6acdccba4ccc",
+            "loreBiasGroups": [
+                {
+                    "phrases": [],
+                    "ensureSequenceFinish": false,
+                    "generateOnce": true,
+                    "bias": 0,
+                    "enabled": true,
+                    "whenInactive": false
+                }
+            ]
+        },
+        {
+            "text": "[ A realm is a universe with its own rules with regard to gravity, geography, magic and morality. Realms have existed since before recorded history, but they were only discovered after the invention of modern science. In many ways planes resemble our own reality, except that there are no humans or other intelligent lifeforms on them. Instead, there are creatures like dragons, demons, and gods who rule over vast empires and civilizations. ]",
+            "contextConfig": {
+                "prefix": "",
+                "suffix": "\n",
+                "tokenBudget": 2048,
+                "reservedTokens": 0,
+                "budgetPriority": 400,
+                "trimDirection": "trimBottom",
+                "insertionType": "newline",
+                "maximumTrimType": "sentence",
+                "insertionPosition": -1
+            },
+            "lastUpdatedAt": 1672887924056,
+            "displayName": "Realm",
+            "id": "c4213e57-9170-46c6-908f-ec7c77859577",
+            "keys": [
+                "Realm"
+            ],
+            "searchRange": 1000,
+            "enabled": true,
+            "forceActivation": false,
+            "keyRelative": false,
+            "nonStoryActivatable": false,
+            "category": "583e2da1-40cc-4000-93b0-26348dc18a03",
+            "loreBiasGroups": [
+                {
+                    "phrases": [],
+                    "ensureSequenceFinish": false,
+                    "generateOnce": true,
+                    "bias": 0,
+                    "enabled": true,
+                    "whenInactive": false
+                }
+            ]
+        },
+        {
+            "text": "The Material Plane is the nexus where the philosophical and elemental forces that define the Other Planes collide in the jumbled existence of mortal life and mundane matter. It is also known as the \"realm of men\", and it's where we live. This realm is made up of three dimensions (height, width, depth), and contains all things that exist in this world—including us.",
+            "contextConfig": {
+                "prefix": "",
+                "suffix": "\n",
+                "tokenBudget": 2048,
+                "reservedTokens": 0,
+                "budgetPriority": 400,
+                "trimDirection": "trimBottom",
+                "insertionType": "newline",
+                "maximumTrimType": "sentence",
+                "insertionPosition": -1
+            },
+            "lastUpdatedAt": 1672883355939,
+            "displayName": "Material Realm",
+            "id": "65b0e31d-b78c-4b4a-8dbf-a526ee619f08",
+            "keys": [
+                "Material Realm"
+            ],
+            "searchRange": 1000,
+            "enabled": true,
+            "forceActivation": false,
+            "keyRelative": false,
+            "nonStoryActivatable": false,
+            "category": "3e9dbc4f-8705-42e3-ba79-eadaf1f8b71a",
+            "loreBiasGroups": [
+                {
+                    "phrases": [],
+                    "ensureSequenceFinish": false,
+                    "generateOnce": true,
+                    "bias": 0,
+                    "enabled": true,
+                    "whenInactive": false
+                }
+            ]
+        },
+        {
+            "text": "[ The Weave is a realm full of trains that can transport passengers to other realms. It was created when a group of scientists accidentally opened a portal between two dimensions. The portal led to another plane where people could travel freely between different worlds. Some people believe this is what happened during the Great War, when the Allied Nations fought against the Axis Powers. Others say it's just a story told to scare kids. ]",
+            "contextConfig": {
+                "prefix": "",
+                "suffix": "\n",
+                "tokenBudget": 2048,
+                "reservedTokens": 0,
+                "budgetPriority": 400,
+                "trimDirection": "trimBottom",
+                "insertionType": "newline",
+                "maximumTrimType": "sentence",
+                "insertionPosition": -1
+            },
+            "lastUpdatedAt": 1672883698848,
+            "displayName": "The Weave",
+            "id": "ab5235d1-97ea-4b58-8233-96b7d182ae1c",
+            "keys": [
+                "The Weave"
+            ],
+            "searchRange": 1000,
+            "enabled": true,
+            "forceActivation": false,
+            "keyRelative": false,
+            "nonStoryActivatable": false,
+            "category": "3e9dbc4f-8705-42e3-ba79-eadaf1f8b71a",
+            "loreBiasGroups": [
+                {
+                    "phrases": [],
+                    "ensureSequenceFinish": false,
+                    "generateOnce": true,
+                    "bias": 0,
+                    "enabled": true,
+                    "whenInactive": false
+                }
+            ]
+        },
+        {
+            "text": "[ The Infinity is a luxury passenger train that travels along the weave. Passengers can take trips across the multiverse, visiting places like Earth, Mars, and even other planes of existence. Its interior is modeled after the Sunrise Express, but there are some differences - most notably the presence of a bar on board. The Infinity is owned by the MTA, which operates several other lines as well. ]",
+            "contextConfig": {
+                "prefix": "",
+                "suffix": "\n",
+                "tokenBudget": 2048,
+                "reservedTokens": 0,
+                "budgetPriority": 400,
+                "trimDirection": "trimBottom",
+                "insertionType": "newline",
+                "maximumTrimType": "sentence",
+                "insertionPosition": -1
+            },
+            "lastUpdatedAt": 1672895006066,
+            "displayName": "The Infinity",
+            "id": "84835d62-24bb-4789-a117-94305d590cb8",
+            "keys": [
+                "The Infinity"
+            ],
+            "searchRange": 1000,
+            "enabled": true,
+            "forceActivation": false,
+            "keyRelative": false,
+            "nonStoryActivatable": false,
+            "category": "17cd8608-77fa-42aa-a508-6acdccba4ccc",
+            "loreBiasGroups": [
+                {
+                    "phrases": [],
+                    "ensureSequenceFinish": false,
+                    "generateOnce": true,
+                    "bias": 0,
+                    "enabled": true,
+                    "whenInactive": false
+                }
+            ]
+        },
+        {
+            "text": "[ The M.T.A., or \"Multidimensional Transit Authority\", is a government agency that operates the portals between our world and other dimensions. They're responsible for keeping these portals safe from those who would use them for ill, but they're also tasked with maintaining order in the multiverse. The M.T.A. has agents stationed throughout the cosmos, working to keep peace wherever it's needed. ]",
+            "contextConfig": {
+                "prefix": "",
+                "suffix": "\n",
+                "tokenBudget": 2048,
+                "reservedTokens": 0,
+                "budgetPriority": 400,
+                "trimDirection": "trimBottom",
+                "insertionType": "newline",
+                "maximumTrimType": "sentence",
+                "insertionPosition": -1
+            },
+            "lastUpdatedAt": 1672886543821,
+            "displayName": "MTA",
+            "id": "ec6aa0ec-079c-48b2-b17b-c2292b8732fa",
+            "keys": [
+                "MTA",
+                "Multidimensional Transit Authority"
+            ],
+            "searchRange": 1000,
+            "enabled": true,
+            "forceActivation": false,
+            "keyRelative": false,
+            "nonStoryActivatable": false,
+            "category": "4dc6f196-ccdd-4cce-991c-08ea4cf2901c",
+            "loreBiasGroups": [
+                {
+                    "phrases": [],
+                    "ensureSequenceFinish": false,
+                    "generateOnce": true,
+                    "bias": 0,
+                    "enabled": true,
+                    "whenInactive": false
+                }
+            ]
+        },
+        {
+            "text": "[ The board of directors is a group of people who oversee the operations and policies of an organization. They are responsible for making decisions about how money should be spent, hiring staff members, and approving new projects. The board meets regularly to discuss these matters, but they may also hold special meetings if necessary. Their job is to make sure that the company's goals are being met. ]",
+            "contextConfig": {
+                "prefix": "",
+                "suffix": "\n",
+                "tokenBudget": 2048,
+                "reservedTokens": 0,
+                "budgetPriority": 400,
+                "trimDirection": "trimBottom",
+                "insertionType": "newline",
+                "maximumTrimType": "sentence",
+                "insertionPosition": -1
+            },
+            "lastUpdatedAt": 1672884123936,
+            "displayName": "Board of directors",
+            "id": "b3b6c151-ebf3-4242-a90d-bca77eb35524",
+            "keys": [
+                "Board of director",
+                "the board"
+            ],
+            "searchRange": 1000,
+            "enabled": true,
+            "forceActivation": false,
+            "keyRelative": false,
+            "nonStoryActivatable": false,
+            "category": "b6d2b717-98da-49be-9210-9a0f1f5d043f",
+            "loreBiasGroups": [
+                {
+                    "phrases": [],
+                    "ensureSequenceFinish": false,
+                    "generateOnce": true,
+                    "bias": 0,
+                    "enabled": true,
+                    "whenInactive": false
+                }
+            ]
+        },
+        {
+            "text": "The Bag of Holding is a magical item created by the dwarves of Thorbardin during the Second Age. It's a large leather sack which can be opened at will and contains infinite amounts of anything within it. It was originally used as a storage device for food and supplies, but has since been adapted for other purposes such as transporting items between worlds or storing prisoners.",
+            "contextConfig": {
+                "prefix": "",
+                "suffix": "\n",
+                "tokenBudget": 2048,
+                "reservedTokens": 0,
+                "budgetPriority": 400,
+                "trimDirection": "trimBottom",
+                "insertionType": "newline",
+                "maximumTrimType": "sentence",
+                "insertionPosition": -1
+            },
+            "lastUpdatedAt": 1672885585050,
+            "displayName": "Bag of Holding",
+            "id": "b08e6ad0-320b-4222-9dd1-63c9bada6ae0",
+            "keys": [
+                "Bag of Holding",
+                "Bag of Tricks"
+            ],
+            "searchRange": 1000,
+            "enabled": true,
+            "forceActivation": false,
+            "keyRelative": false,
+            "nonStoryActivatable": false,
+            "category": "17cd8608-77fa-42aa-a508-6acdccba4ccc",
+            "loreBiasGroups": [
+                {
+                    "phrases": [],
+                    "ensureSequenceFinish": false,
+                    "generateOnce": true,
+                    "bias": 0,
+                    "enabled": true,
+                    "whenInactive": false
+                }
+            ]
+        },
+        {
+            "text": "[ The Magic Trade Act was signed into law on July 4th, 2072. This act established guidelines for the trade of essence crystals between different countries and regions. It also set out rules for fair trade practices, dispute resolution, and the protection of intellectual property rights. The act is overseen by the International Magical Association (IMA), which oversees all magical activity across the globe. ]",
+            "contextConfig": {
+                "prefix": "",
+                "suffix": "\n",
+                "tokenBudget": 2048,
+                "reservedTokens": 0,
+                "budgetPriority": 400,
+                "trimDirection": "trimBottom",
+                "insertionType": "newline",
+                "maximumTrimType": "sentence",
+                "insertionPosition": -1
+            },
+            "lastUpdatedAt": 1672886523381,
+            "displayName": "Magic Trade Act",
+            "id": "186f8d9e-bec7-4521-bea9-aba8c94d1a7b",
+            "keys": [
+                "Magic Trade Act",
+                "Essence Trade Act"
+            ],
+            "searchRange": 1000,
+            "enabled": true,
+            "forceActivation": false,
+            "keyRelative": false,
+            "nonStoryActivatable": false,
+            "category": "091db322-2bbb-4ea7-af2b-6b77a8eeba8a",
+            "loreBiasGroups": [
+                {
+                    "phrases": [],
+                    "ensureSequenceFinish": false,
+                    "generateOnce": true,
+                    "bias": 0,
+                    "enabled": true,
+                    "whenInactive": false
+                }
+            ]
+        },
+        {
+            "text": "[ The International Magical Association (IMA) is an organization dedicated to regulating magical activity across the globe. Founded in 2073, it has grown into a global organization with members in every nation. Its headquarters is located in London, England. The IMA's primary goal is to ensure that no country or region gains too much influence over the magical community. ]",
+            "contextConfig": {
+                "prefix": "",
+                "suffix": "\n",
+                "tokenBudget": 2048,
+                "reservedTokens": 0,
+                "budgetPriority": 400,
+                "trimDirection": "trimBottom",
+                "insertionType": "newline",
+                "maximumTrimType": "sentence",
+                "insertionPosition": -1
+            },
+            "lastUpdatedAt": 1672886600777,
+            "displayName": "IMA",
+            "id": "558b5292-9da6-4321-be1d-cc5e4b1f5eb2",
+            "keys": [
+                "International Magical Association",
+                "IMA"
+            ],
+            "searchRange": 1000,
+            "enabled": true,
+            "forceActivation": false,
+            "keyRelative": false,
+            "nonStoryActivatable": false,
+            "category": "4dc6f196-ccdd-4cce-991c-08ea4cf2901c",
+            "loreBiasGroups": [
+                {
+                    "phrases": [],
+                    "ensureSequenceFinish": false,
+                    "generateOnce": true,
+                    "bias": 0,
+                    "enabled": true,
+                    "whenInactive": false
+                }
+            ]
+        },
+        {
+            "text": "[ The Magic Safety Act was passed after several incidents involving the misuse of essence crystals. These included a man who used his crystal to cause a car accident that killed three people, another who used it to create a fireball that destroyed a building, and yet another who accidentally caused a nuclear meltdown when he tried to use it as a heat source. In response, the government passed this law to ensure that crystals were only used for their intended purpose. ]",
+            "contextConfig": {
+                "prefix": "",
+                "suffix": "\n",
+                "tokenBudget": 2048,
+                "reservedTokens": 0,
+                "budgetPriority": 400,
+                "trimDirection": "trimBottom",
+                "insertionType": "newline",
+                "maximumTrimType": "sentence",
+                "insertionPosition": -1
+            },
+            "lastUpdatedAt": 1672886676832,
+            "displayName": "Magic Safety Act",
+            "id": "0b46472c-46ff-4c5b-a205-aa99e2605749",
+            "keys": [
+                "Magic Safety Act",
+                "Essence Safety Act"
+            ],
+            "searchRange": 1000,
+            "enabled": true,
+            "forceActivation": false,
+            "keyRelative": false,
+            "nonStoryActivatable": false,
+            "category": "091db322-2bbb-4ea7-af2b-6b77a8eeba8a",
+            "loreBiasGroups": [
+                {
+                    "phrases": [],
+                    "ensureSequenceFinish": false,
+                    "generateOnce": true,
+                    "bias": 0,
+                    "enabled": true,
+                    "whenInactive": false
+                }
+            ]
+        },
+        {
+            "text": "[ The Magic Conservation Act was signed into law on July 4th, 2072. This act establishes guidelines for the sustainable harvesting of essence crystals. It also sets out rules for fair trade practices, dispute resolution, and the protection of intellectual property rights. The act is overseen by the International Magical Association (IMA), which oversees all magical activity across the globe. ]",
+            "contextConfig": {
+                "prefix": "",
+                "suffix": "\n",
+                "tokenBudget": 2048,
+                "reservedTokens": 0,
+                "budgetPriority": 400,
+                "trimDirection": "trimBottom",
+                "insertionType": "newline",
+                "maximumTrimType": "sentence",
+                "insertionPosition": -1
+            },
+            "lastUpdatedAt": 1672886768227,
+            "displayName": "Magic Conservation Act",
+            "id": "d6021c35-77ef-4820-b279-ae75363ca483",
+            "keys": [
+                "Magic Conservation Act",
+                "MCA"
+            ],
+            "searchRange": 1000,
+            "enabled": true,
+            "forceActivation": false,
+            "keyRelative": false,
+            "nonStoryActivatable": false,
+            "category": "091db322-2bbb-4ea7-af2b-6b77a8eeba8a",
+            "loreBiasGroups": [
+                {
+                    "phrases": [],
+                    "ensureSequenceFinish": false,
+                    "generateOnce": true,
+                    "bias": 0,
+                    "enabled": true,
+                    "whenInactive": false
+                }
+            ]
+        },
+        {
+            "text": "[ The Magic Tent is a magical item that allows people to live in tents that are much larger than they appear. It was invented by Dr. John F. Jenkins, who used his knowledge of science to create this device. He wanted to help homeless people find shelter during cold weather, but unfortunately he died before he could see his invention put into production. However, other scientists took up the challenge and now there are many Magic Tents throughout the world. ]",
+            "contextConfig": {
+                "prefix": "",
+                "suffix": "\n",
+                "tokenBudget": 2048,
+                "reservedTokens": 0,
+                "budgetPriority": 400,
+                "trimDirection": "trimBottom",
+                "insertionType": "newline",
+                "maximumTrimType": "sentence",
+                "insertionPosition": -1
+            },
+            "lastUpdatedAt": 1672887191349,
+            "displayName": "Magic Tent",
+            "id": "ac9852c9-04e0-440b-9213-8b202ac60db6",
+            "keys": [
+                "Magic Tent"
+            ],
+            "searchRange": 1000,
+            "enabled": true,
+            "forceActivation": false,
+            "keyRelative": false,
+            "nonStoryActivatable": false,
+            "category": "17cd8608-77fa-42aa-a508-6acdccba4ccc",
+            "loreBiasGroups": [
+                {
+                    "phrases": [],
+                    "ensureSequenceFinish": false,
+                    "generateOnce": true,
+                    "bias": 0,
+                    "enabled": true,
+                    "whenInactive": false
+                }
+            ]
+        },
+        {
+            "text": "[ Regional Trains are a type of rail transport that run between cities and towns in a region. They're often used for commuting to work or school, but they can also be used for longer trips such as vacations or business trips. Some regional trains have sleeping cars, which allow passengers to sleep during their journey. Others have dining cars, where passengers can enjoy meals prepared by chefs on board. ]",
+            "contextConfig": {
+                "prefix": "",
+                "suffix": "\n",
+                "tokenBudget": 2048,
+                "reservedTokens": 0,
+                "budgetPriority": 400,
+                "trimDirection": "trimBottom",
+                "insertionType": "newline",
+                "maximumTrimType": "sentence",
+                "insertionPosition": -1
+            },
+            "lastUpdatedAt": 1672887525909,
+            "displayName": "Regional Train",
+            "id": "6dc228b8-6802-4410-a6ac-9a4249bccf53",
+            "keys": [
+                "Regional Train"
+            ],
+            "searchRange": 1000,
+            "enabled": true,
+            "forceActivation": false,
+            "keyRelative": false,
+            "nonStoryActivatable": false,
+            "category": "583e2da1-40cc-4000-93b0-26348dc18a03",
+            "loreBiasGroups": [
+                {
+                    "phrases": [],
+                    "ensureSequenceFinish": false,
+                    "generateOnce": true,
+                    "bias": 0,
+                    "enabled": true,
+                    "whenInactive": false
+                }
+            ]
+        },
+        {
+            "text": "[ Wonders & More is a chain of stores that sell magic crystals. The crystals are used to power various magical items, such as wands and staffs. They're also sold in the form of jewelry or other trinkets. Their products come in many different colors and shapes, but they all have one thing in common - they can be used by anyone who possesses them. ]",
+            "contextConfig": {
+                "prefix": "",
+                "suffix": "\n",
+                "tokenBudget": 2048,
+                "reservedTokens": 0,
+                "budgetPriority": 400,
+                "trimDirection": "trimBottom",
+                "insertionType": "newline",
+                "maximumTrimType": "sentence",
+                "insertionPosition": -1
+            },
+            "lastUpdatedAt": 1672888548583,
+            "displayName": "Wonders & More",
+            "id": "4465e28e-55ae-4f03-89fc-2140e16c3ff4",
+            "keys": [
+                "Wonders & More",
+                "W&M"
+            ],
+            "searchRange": 1000,
+            "enabled": true,
+            "forceActivation": false,
+            "keyRelative": false,
+            "nonStoryActivatable": false,
+            "category": "3e9dbc4f-8705-42e3-ba79-eadaf1f8b71a",
+            "loreBiasGroups": [
+                {
+                    "phrases": [],
+                    "ensureSequenceFinish": false,
+                    "generateOnce": true,
+                    "bias": 0,
+                    "enabled": true,
+                    "whenInactive": false
+                }
+            ]
+        },
+        {
+            "text": "[ Hans is a young mystery fox who collects the Arcane crystals. He's very curious and likes to explore. His favorite food is ice cream, which he eats with great enthusiasm. Hans has a habit of getting into trouble by exploring places where he shouldn't be. He also enjoys playing games like hide-and-seek or tag. He sometimes gets lost in thought while walking around town, but always manages to find his way back home. ]",
+            "contextConfig": {
+                "prefix": "",
+                "suffix": "\n",
+                "tokenBudget": 2048,
+                "reservedTokens": 0,
+                "budgetPriority": 400,
+                "trimDirection": "trimBottom",
+                "insertionType": "newline",
+                "maximumTrimType": "sentence",
+                "insertionPosition": -1
+            },
+            "lastUpdatedAt": 1672890471773,
+            "displayName": "Hans",
+            "id": "07f54571-ec15-48cf-a8d8-162c8445878e",
+            "keys": [
+                "Hans"
+            ],
+            "searchRange": 1000,
+            "enabled": true,
+            "forceActivation": false,
+            "keyRelative": false,
+            "nonStoryActivatable": false,
+            "category": "ae19d7f9-67f4-4fa7-b5fa-486c59addf0a",
+            "loreBiasGroups": [
+                {
+                    "phrases": [],
+                    "ensureSequenceFinish": false,
+                    "generateOnce": true,
+                    "bias": 0,
+                    "enabled": true,
+                    "whenInactive": false
+                }
+            ]
+        },
+        {
+            "text": "[ Magical Mages are a type of mage who specialize in the use of magic. They typically work as researchers, inventors, or professors at universities and colleges around the world. Their research often involves creating new spells or devices that can be used for military purposes. Many mages also serve as soldiers on battlefields, using their magical abilities to fight alongside other soldiers. ]",
+            "contextConfig": {
+                "prefix": "",
+                "suffix": "\n",
+                "tokenBudget": 2048,
+                "reservedTokens": 0,
+                "budgetPriority": 400,
+                "trimDirection": "trimBottom",
+                "insertionType": "newline",
+                "maximumTrimType": "sentence",
+                "insertionPosition": -1
+            },
+            "lastUpdatedAt": 1672890640583,
+            "displayName": "Mage",
+            "id": "a2bd1cb5-cd52-4125-a493-1a067427ad19",
+            "keys": [
+                "Mage"
+            ],
+            "searchRange": 1000,
+            "enabled": true,
+            "forceActivation": false,
+            "keyRelative": false,
+            "nonStoryActivatable": false,
+            "category": "b6d2b717-98da-49be-9210-9a0f1f5d043f",
+            "loreBiasGroups": [
+                {
+                    "phrases": [],
+                    "ensureSequenceFinish": false,
+                    "generateOnce": true,
+                    "bias": 0,
+                    "enabled": true,
+                    "whenInactive": false
+                }
+            ]
+        },
+        {
+            "text": "[ Artemis is a fox who is a powerful mage that works for the IMA. He wears a black suit, and carries a cane. He speaks with a British accent, but sometimes he will speak with an Australian one. His favorite food is curry, and his least favorite color is red. He likes tea, and dislikes coffee. ]",
+            "contextConfig": {
+                "prefix": "",
+                "suffix": "\n",
+                "tokenBudget": 2048,
+                "reservedTokens": 0,
+                "budgetPriority": 400,
+                "trimDirection": "trimBottom",
+                "insertionType": "newline",
+                "maximumTrimType": "sentence",
+                "insertionPosition": -1
+            },
+            "lastUpdatedAt": 1672961164033,
+            "displayName": "Artemis",
+            "id": "28d670e6-44ee-42cb-ac95-71bdb95f312e",
+            "keys": [
+                "Artemis"
+            ],
+            "searchRange": 1000,
+            "enabled": true,
+            "forceActivation": false,
+            "keyRelative": false,
+            "nonStoryActivatable": false,
+            "category": "ae19d7f9-67f4-4fa7-b5fa-486c59addf0a",
+            "loreBiasGroups": [
+                {
+                    "phrases": [],
+                    "ensureSequenceFinish": false,
+                    "generateOnce": true,
+                    "bias": 0,
+                    "enabled": true,
+                    "whenInactive": false
+                }
+            ]
+        },
+        {
+            "text": "[ Station 456 is a small, isolated train station located deep within the Material Realm. It serves as a gateway between the Material Plane and The Weave, allowing passengers to travel between the two realms at will. It is run by the MTA, which owns several other stations in addition to this one. ]",
+            "contextConfig": {
+                "prefix": "",
+                "suffix": "\n",
+                "tokenBudget": 2048,
+                "reservedTokens": 0,
+                "budgetPriority": 400,
+                "trimDirection": "trimBottom",
+                "insertionType": "newline",
+                "maximumTrimType": "sentence",
+                "insertionPosition": -1
+            },
+            "lastUpdatedAt": 1672892187118,
+            "displayName": "Station 456",
+            "id": "bae71738-e16c-45c3-a22d-808d758c49de",
+            "keys": [
+                "Station 456"
+            ],
+            "searchRange": 1000,
+            "enabled": true,
+            "forceActivation": false,
+            "keyRelative": false,
+            "nonStoryActivatable": false,
+            "category": "3e9dbc4f-8705-42e3-ba79-eadaf1f8b71a",
+            "loreBiasGroups": [
+                {
+                    "phrases": [],
+                    "ensureSequenceFinish": false,
+                    "generateOnce": true,
+                    "bias": 0,
+                    "enabled": true,
+                    "whenInactive": false
+                }
+            ]
+        },
+        {
+            "text": "[ Fenix are highly adaptable, artificially intelligent beings with vulpine-like appearances and the ability to form independent relationships with other Fenix and organics. Capable of learning and adapting through machine learning, Fenix are designed to perform a wide range of tasks and can form their own relationships with other Fenix and organics. They have been known to develop complex social structures within their communities, which they use to communicate ideas and information. ]",
+            "contextConfig": {
+                "prefix": "",
+                "suffix": "\n",
+                "tokenBudget": 2048,
+                "reservedTokens": 0,
+                "budgetPriority": 400,
+                "trimDirection": "trimBottom",
+                "insertionType": "newline",
+                "maximumTrimType": "sentence",
+                "insertionPosition": -1
+            },
+            "lastUpdatedAt": 1672893465206,
+            "displayName": "Fenix",
+            "id": "e9bb8738-fb19-4d6c-8800-6c259140a565",
+            "keys": [
+                "Fenix"
+            ],
+            "searchRange": 1000,
+            "enabled": true,
+            "forceActivation": false,
+            "keyRelative": false,
+            "nonStoryActivatable": false,
+            "category": "5e9fe3f1-07ff-4e79-b87c-e8f270c0dd3b",
+            "loreBiasGroups": [
+                {
+                    "phrases": [],
+                    "ensureSequenceFinish": false,
+                    "generateOnce": true,
+                    "bias": 0,
+                    "enabled": true,
+                    "whenInactive": false
+                }
+            ]
+        },
+        {
+            "text": "[ Planetary designers are the people who create and design planets. They're responsible for creating new worlds, or modifying existing ones to meet specific requirements. Their job is to ensure that a planet's environment is suitable for organic life. This includes ensuring that there are no harmful creatures on the surface, as well as designing cities and towns so they can be easily inhabited by humans. ]",
+            "contextConfig": {
+                "prefix": "",
+                "suffix": "\n",
+                "tokenBudget": 2048,
+                "reservedTokens": 0,
+                "budgetPriority": 400,
+                "trimDirection": "trimBottom",
+                "insertionType": "newline",
+                "maximumTrimType": "sentence",
+                "insertionPosition": -1
+            },
+            "lastUpdatedAt": 1672940367964,
+            "displayName": "Planet Designer",
+            "id": "cc71088c-ec01-4d47-b246-54329024a6b8",
+            "keys": [
+                "Planet Designer"
+            ],
+            "searchRange": 1000,
+            "enabled": true,
+            "forceActivation": false,
+            "keyRelative": false,
+            "nonStoryActivatable": false,
+            "category": "b6d2b717-98da-49be-9210-9a0f1f5d043f",
+            "loreBiasGroups": [
+                {
+                    "phrases": [],
+                    "ensureSequenceFinish": false,
+                    "generateOnce": true,
+                    "bias": 0,
+                    "enabled": true,
+                    "whenInactive": false
+                }
+            ]
+        },
+        {
+            "text": "[ Anthony Foxclaw is a blue furred fennec with a bright, sapphire blue fur and shimmering patterns of silver and white, resembling the facets of a polished gemstone. He works for Akonos as a planet designer. His favorite color is red, and he loves to eat spicy food. He also enjoys playing video games. He wears a letterman jacket over his uniform shirt and skirt. ]",
+            "contextConfig": {
+                "prefix": "",
+                "suffix": "\n",
+                "tokenBudget": 2048,
+                "reservedTokens": 0,
+                "budgetPriority": 400,
+                "trimDirection": "trimBottom",
+                "insertionType": "newline",
+                "maximumTrimType": "sentence",
+                "insertionPosition": -1
+            },
+            "lastUpdatedAt": 1672940647737,
+            "displayName": "Anthony Foxclaw",
+            "id": "6f4f1159-4276-45c5-b428-3efb4934e2b5",
+            "keys": [
+                "Anthony Foxclaw",
+                "Anthony"
+            ],
+            "searchRange": 1000,
+            "enabled": true,
+            "forceActivation": false,
+            "keyRelative": false,
+            "nonStoryActivatable": false,
+            "category": "ae19d7f9-67f4-4fa7-b5fa-486c59addf0a",
+            "loreBiasGroups": [
+                {
+                    "phrases": [],
+                    "ensureSequenceFinish": false,
+                    "generateOnce": true,
+                    "bias": 0,
+                    "enabled": true,
+                    "whenInactive": false
+                }
+            ]
+        },
+        {
+            "text": "[ Akonos Corporation is a planet-designing company that specializes in creating artificial planets. They are known for their work on the planet Vyrlei, which they created using advanced technology. The corporation was founded by Dr. Hilde Akonos and her husband, Professor Thomas Akonos. After his death, she took over as CEO of the company. ]",
+            "contextConfig": {
+                "prefix": "",
+                "suffix": "\n",
+                "tokenBudget": 2048,
+                "reservedTokens": 0,
+                "budgetPriority": 400,
+                "trimDirection": "trimBottom",
+                "insertionType": "newline",
+                "maximumTrimType": "sentence",
+                "insertionPosition": -1
+            },
+            "lastUpdatedAt": 1672940841318,
+            "displayName": "Akonos Corporation",
+            "id": "d26e5a3c-8d27-4420-81e7-e3df94b1bbe3",
+            "keys": [
+                "Akonos Corporation",
+                "Akonos"
+            ],
+            "searchRange": 1000,
+            "enabled": true,
+            "forceActivation": false,
+            "keyRelative": false,
+            "nonStoryActivatable": false,
+            "category": "4dc6f196-ccdd-4cce-991c-08ea4cf2901c",
+            "loreBiasGroups": [
+                {
+                    "phrases": [],
+                    "ensureSequenceFinish": false,
+                    "generateOnce": true,
+                    "bias": 0,
+                    "enabled": true,
+                    "whenInactive": false
+                }
+            ]
+        }
+    ],
+    "settings": {
+        "orderByKeyLocations": false
+    },
+    "categories": [
+        {
+            "name": "Characters",
+            "id": "ae19d7f9-67f4-4fa7-b5fa-486c59addf0a",
+            "enabled": true,
+            "createSubcontext": false,
+            "subcontextSettings": {
+                "text": "",
+                "contextConfig": {
+                    "prefix": "",
+                    "suffix": "\n",
+                    "tokenBudget": 2048,
+                    "reservedTokens": 0,
+                    "budgetPriority": 400,
+                    "trimDirection": "trimBottom",
+                    "insertionType": "newline",
+                    "maximumTrimType": "sentence",
+                    "insertionPosition": -1
+                },
+                "lastUpdatedAt": 1672894600622,
+                "displayName": "New Lorebook Entry",
+                "id": "b2fa1816-f056-4730-9e96-753f5182d981",
+                "keys": [],
+                "searchRange": 1000,
+                "enabled": true,
+                "forceActivation": false,
+                "keyRelative": false,
+                "nonStoryActivatable": false,
+                "category": "",
+                "loreBiasGroups": [
+                    {
+                        "phrases": [],
+                        "ensureSequenceFinish": false,
+                        "generateOnce": true,
+                        "bias": 0,
+                        "enabled": true,
+                        "whenInactive": false
+                    }
+                ]
+            },
+            "useCategoryDefaults": false,
+            "categoryDefaults": {
+                "text": "",
+                "contextConfig": {
+                    "prefix": "",
+                    "suffix": "\n",
+                    "tokenBudget": 2048,
+                    "reservedTokens": 0,
+                    "budgetPriority": 400,
+                    "trimDirection": "trimBottom",
+                    "insertionType": "newline",
+                    "maximumTrimType": "sentence",
+                    "insertionPosition": -1
+                },
+                "lastUpdatedAt": 1672890282823,
+                "displayName": "New Lorebook Entry",
+                "id": "bcba3afe-287a-4319-ae09-5aeadc33bebd",
+                "keys": [],
+                "searchRange": 1000,
+                "enabled": true,
+                "forceActivation": false,
+                "keyRelative": false,
+                "nonStoryActivatable": false,
+                "category": "",
+                "loreBiasGroups": [
+                    {
+                        "phrases": [],
+                        "ensureSequenceFinish": false,
+                        "generateOnce": true,
+                        "bias": 0,
+                        "enabled": true,
+                        "whenInactive": false
+                    }
+                ]
+            },
+            "categoryBiasGroups": [
+                {
+                    "phrases": [],
+                    "ensureSequenceFinish": false,
+                    "generateOnce": true,
+                    "bias": 0,
+                    "enabled": true,
+                    "whenInactive": false
+                }
+            ],
+            "open": true
+        },
+        {
+            "name": "Concepts",
+            "id": "583e2da1-40cc-4000-93b0-26348dc18a03",
+            "enabled": true,
+            "createSubcontext": false,
+            "subcontextSettings": {
+                "text": "",
+                "contextConfig": {
+                    "prefix": "",
+                    "suffix": "\n",
+                    "tokenBudget": 2048,
+                    "reservedTokens": 0,
+                    "budgetPriority": 400,
+                    "trimDirection": "trimBottom",
+                    "insertionType": "newline",
+                    "maximumTrimType": "sentence",
+                    "insertionPosition": -1
+                },
+                "lastUpdatedAt": 1672894600622,
+                "displayName": "New Lorebook Entry",
+                "id": "f68f0df7-927b-4900-9534-d4e42fe7505d",
+                "keys": [],
+                "searchRange": 1000,
+                "enabled": true,
+                "forceActivation": false,
+                "keyRelative": false,
+                "nonStoryActivatable": false,
+                "category": "",
+                "loreBiasGroups": [
+                    {
+                        "phrases": [],
+                        "ensureSequenceFinish": false,
+                        "generateOnce": true,
+                        "bias": 0,
+                        "enabled": true,
+                        "whenInactive": false
+                    }
+                ]
+            },
+            "useCategoryDefaults": false,
+            "categoryDefaults": {
+                "text": "",
+                "contextConfig": {
+                    "prefix": "",
+                    "suffix": "\n",
+                    "tokenBudget": 2048,
+                    "reservedTokens": 0,
+                    "budgetPriority": 400,
+                    "trimDirection": "trimBottom",
+                    "insertionType": "newline",
+                    "maximumTrimType": "sentence",
+                    "insertionPosition": -1
+                },
+                "lastUpdatedAt": 1672887434236,
+                "displayName": "New Lorebook Entry",
+                "id": "24607a41-29ee-4a33-a69f-f8eed8048615",
+                "keys": [],
+                "searchRange": 1000,
+                "enabled": true,
+                "forceActivation": false,
+                "keyRelative": false,
+                "nonStoryActivatable": false,
+                "category": "",
+                "loreBiasGroups": [
+                    {
+                        "phrases": [],
+                        "ensureSequenceFinish": false,
+                        "generateOnce": true,
+                        "bias": 0,
+                        "enabled": true,
+                        "whenInactive": false
+                    }
+                ]
+            },
+            "categoryBiasGroups": [
+                {
+                    "phrases": [],
+                    "ensureSequenceFinish": false,
+                    "generateOnce": true,
+                    "bias": 0,
+                    "enabled": true,
+                    "whenInactive": false
+                }
+            ],
+            "open": false
+        },
+        {
+            "name": "Factions",
+            "id": "4dc6f196-ccdd-4cce-991c-08ea4cf2901c",
+            "enabled": true,
+            "createSubcontext": false,
+            "subcontextSettings": {
+                "text": "",
+                "contextConfig": {
+                    "prefix": "",
+                    "suffix": "\n",
+                    "tokenBudget": 2048,
+                    "reservedTokens": 0,
+                    "budgetPriority": 400,
+                    "trimDirection": "trimBottom",
+                    "insertionType": "newline",
+                    "maximumTrimType": "sentence",
+                    "insertionPosition": -1
+                },
+                "lastUpdatedAt": 1672894600622,
+                "displayName": "New Lorebook Entry",
+                "id": "498bc34d-661b-488f-a8c5-51d07fb7ea7f",
+                "keys": [],
+                "searchRange": 1000,
+                "enabled": true,
+                "forceActivation": false,
+                "keyRelative": false,
+                "nonStoryActivatable": false,
+                "category": "",
+                "loreBiasGroups": [
+                    {
+                        "phrases": [],
+                        "ensureSequenceFinish": false,
+                        "generateOnce": true,
+                        "bias": 0,
+                        "enabled": true,
+                        "whenInactive": false
+                    }
+                ]
+            },
+            "useCategoryDefaults": false,
+            "categoryDefaults": {
+                "text": "",
+                "contextConfig": {
+                    "prefix": "",
+                    "suffix": "\n",
+                    "tokenBudget": 2048,
+                    "reservedTokens": 0,
+                    "budgetPriority": 400,
+                    "trimDirection": "trimBottom",
+                    "insertionType": "newline",
+                    "maximumTrimType": "sentence",
+                    "insertionPosition": -1
+                },
+                "lastUpdatedAt": 1672886534766,
+                "displayName": "New Lorebook Entry",
+                "id": "78cff3e9-e81c-460b-96ef-e87fc996b6c2",
+                "keys": [],
+                "searchRange": 1000,
+                "enabled": true,
+                "forceActivation": false,
+                "keyRelative": false,
+                "nonStoryActivatable": false,
+                "category": "",
+                "loreBiasGroups": [
+                    {
+                        "phrases": [],
+                        "ensureSequenceFinish": false,
+                        "generateOnce": true,
+                        "bias": 0,
+                        "enabled": true,
+                        "whenInactive": false
+                    }
+                ]
+            },
+            "categoryBiasGroups": [
+                {
+                    "phrases": [],
+                    "ensureSequenceFinish": false,
+                    "generateOnce": true,
+                    "bias": 0,
+                    "enabled": true,
+                    "whenInactive": false
+                }
+            ],
+            "open": false
+        },
+        {
+            "name": "History",
+            "id": "091db322-2bbb-4ea7-af2b-6b77a8eeba8a",
+            "enabled": true,
+            "createSubcontext": false,
+            "subcontextSettings": {
+                "text": "",
+                "contextConfig": {
+                    "prefix": "",
+                    "suffix": "\n",
+                    "tokenBudget": 2048,
+                    "reservedTokens": 0,
+                    "budgetPriority": 400,
+                    "trimDirection": "trimBottom",
+                    "insertionType": "newline",
+                    "maximumTrimType": "sentence",
+                    "insertionPosition": -1
+                },
+                "lastUpdatedAt": 1672894600623,
+                "displayName": "New Lorebook Entry",
+                "id": "56d60539-c6f7-4cc0-b04a-26fdd3797493",
+                "keys": [],
+                "searchRange": 1000,
+                "enabled": true,
+                "forceActivation": false,
+                "keyRelative": false,
+                "nonStoryActivatable": false,
+                "category": "",
+                "loreBiasGroups": [
+                    {
+                        "phrases": [],
+                        "ensureSequenceFinish": false,
+                        "generateOnce": true,
+                        "bias": 0,
+                        "enabled": true,
+                        "whenInactive": false
+                    }
+                ]
+            },
+            "useCategoryDefaults": false,
+            "categoryDefaults": {
+                "text": "",
+                "contextConfig": {
+                    "prefix": "",
+                    "suffix": "\n",
+                    "tokenBudget": 2048,
+                    "reservedTokens": 0,
+                    "budgetPriority": 400,
+                    "trimDirection": "trimBottom",
+                    "insertionType": "newline",
+                    "maximumTrimType": "sentence",
+                    "insertionPosition": -1
+                },
+                "lastUpdatedAt": 1672886419512,
+                "displayName": "New Lorebook Entry",
+                "id": "e258ef95-57d9-43bc-b4b2-47b52f8c503e",
+                "keys": [],
+                "searchRange": 1000,
+                "enabled": true,
+                "forceActivation": false,
+                "keyRelative": false,
+                "nonStoryActivatable": false,
+                "category": "",
+                "loreBiasGroups": [
+                    {
+                        "phrases": [],
+                        "ensureSequenceFinish": false,
+                        "generateOnce": true,
+                        "bias": 0,
+                        "enabled": true,
+                        "whenInactive": false
+                    }
+                ]
+            },
+            "categoryBiasGroups": [
+                {
+                    "phrases": [],
+                    "ensureSequenceFinish": false,
+                    "generateOnce": true,
+                    "bias": 0,
+                    "enabled": true,
+                    "whenInactive": false
+                }
+            ],
+            "open": false
+        },
+        {
+            "name": "Places",
+            "id": "3e9dbc4f-8705-42e3-ba79-eadaf1f8b71a",
+            "enabled": true,
+            "createSubcontext": false,
+            "subcontextSettings": {
+                "text": "",
+                "contextConfig": {
+                    "prefix": "",
+                    "suffix": "\n",
+                    "tokenBudget": 2048,
+                    "reservedTokens": 0,
+                    "budgetPriority": 400,
+                    "trimDirection": "trimBottom",
+                    "insertionType": "newline",
+                    "maximumTrimType": "sentence",
+                    "insertionPosition": -1
+                },
+                "lastUpdatedAt": 1672875339346,
+                "displayName": "New Lorebook Entry",
+                "id": "bfed5a6d-feff-4f8f-ab0c-202eaa06bb6c",
+                "keys": [],
+                "searchRange": 1000,
+                "enabled": true,
+                "forceActivation": false,
+                "keyRelative": false,
+                "nonStoryActivatable": false,
+                "category": "",
+                "loreBiasGroups": [
+                    {
+                        "phrases": [],
+                        "ensureSequenceFinish": false,
+                        "generateOnce": true,
+                        "bias": 0,
+                        "enabled": true,
+                        "whenInactive": false
+                    }
+                ]
+            },
+            "useCategoryDefaults": false,
+            "categoryDefaults": {
+                "text": "",
+                "contextConfig": {
+                    "prefix": "",
+                    "suffix": "\n",
+                    "tokenBudget": 2048,
+                    "reservedTokens": 0,
+                    "budgetPriority": 400,
+                    "trimDirection": "trimBottom",
+                    "insertionType": "newline",
+                    "maximumTrimType": "sentence",
+                    "insertionPosition": -1
+                },
+                "lastUpdatedAt": 1672873414506,
+                "displayName": "New Lorebook Entry",
+                "id": "917edc92-37a5-4682-872a-88338b52410a",
+                "keys": [],
+                "searchRange": 1000,
+                "enabled": true,
+                "forceActivation": false,
+                "keyRelative": false,
+                "nonStoryActivatable": false,
+                "category": "",
+                "loreBiasGroups": [
+                    {
+                        "phrases": [],
+                        "ensureSequenceFinish": false,
+                        "generateOnce": true,
+                        "bias": 0,
+                        "enabled": true,
+                        "whenInactive": false
+                    }
+                ]
+            },
+            "categoryBiasGroups": [
+                {
+                    "phrases": [],
+                    "ensureSequenceFinish": false,
+                    "generateOnce": true,
+                    "bias": 0,
+                    "enabled": true,
+                    "whenInactive": false
+                }
+            ],
+            "open": false
+        },
+        {
+            "name": "Roles",
+            "id": "b6d2b717-98da-49be-9210-9a0f1f5d043f",
+            "enabled": true,
+            "createSubcontext": false,
+            "subcontextSettings": {
+                "text": "",
+                "contextConfig": {
+                    "prefix": "",
+                    "suffix": "\n",
+                    "tokenBudget": 2048,
+                    "reservedTokens": 0,
+                    "budgetPriority": 400,
+                    "trimDirection": "trimBottom",
+                    "insertionType": "newline",
+                    "maximumTrimType": "sentence",
+                    "insertionPosition": -1
+                },
+                "lastUpdatedAt": 1672875339346,
+                "displayName": "New Lorebook Entry",
+                "id": "a6359c3a-0386-4c79-a842-51558d664b7d",
+                "keys": [],
+                "searchRange": 1000,
+                "enabled": true,
+                "forceActivation": false,
+                "keyRelative": false,
+                "nonStoryActivatable": false,
+                "category": "",
+                "loreBiasGroups": [
+                    {
+                        "phrases": [],
+                        "ensureSequenceFinish": false,
+                        "generateOnce": true,
+                        "bias": 0,
+                        "enabled": true,
+                        "whenInactive": false
+                    }
+                ]
+            },
+            "useCategoryDefaults": false,
+            "categoryDefaults": {
+                "text": "",
+                "contextConfig": {
+                    "prefix": "",
+                    "suffix": "\n",
+                    "tokenBudget": 2048,
+                    "reservedTokens": 0,
+                    "budgetPriority": 400,
+                    "trimDirection": "trimBottom",
+                    "insertionType": "newline",
+                    "maximumTrimType": "sentence",
+                    "insertionPosition": -1
+                },
+                "lastUpdatedAt": 1672873406230,
+                "displayName": "New Lorebook Entry",
+                "id": "eabdea1f-3b12-410f-91d9-7a9495543a52",
+                "keys": [],
+                "searchRange": 1000,
+                "enabled": true,
+                "forceActivation": false,
+                "keyRelative": false,
+                "nonStoryActivatable": false,
+                "category": "",
+                "loreBiasGroups": [
+                    {
+                        "phrases": [],
+                        "ensureSequenceFinish": false,
+                        "generateOnce": true,
+                        "bias": 0,
+                        "enabled": true,
+                        "whenInactive": false
+                    }
+                ]
+            },
+            "categoryBiasGroups": [
+                {
+                    "phrases": [],
+                    "ensureSequenceFinish": false,
+                    "generateOnce": true,
+                    "bias": 0,
+                    "enabled": true,
+                    "whenInactive": false
+                }
+            ],
+            "open": false
+        },
+        {
+            "name": "Species",
+            "id": "5e9fe3f1-07ff-4e79-b87c-e8f270c0dd3b",
+            "enabled": true,
+            "createSubcontext": false,
+            "subcontextSettings": {
+                "text": "",
+                "contextConfig": {
+                    "prefix": "",
+                    "suffix": "\n",
+                    "tokenBudget": 2048,
+                    "reservedTokens": 0,
+                    "budgetPriority": 400,
+                    "trimDirection": "trimBottom",
+                    "insertionType": "newline",
+                    "maximumTrimType": "sentence",
+                    "insertionPosition": -1
+                },
+                "lastUpdatedAt": 1672894600623,
+                "displayName": "New Lorebook Entry",
+                "id": "fea5727e-bdd3-464e-bba6-71d95da56c1f",
+                "keys": [],
+                "searchRange": 1000,
+                "enabled": true,
+                "forceActivation": false,
+                "keyRelative": false,
+                "nonStoryActivatable": false,
+                "category": "",
+                "loreBiasGroups": [
+                    {
+                        "phrases": [],
+                        "ensureSequenceFinish": false,
+                        "generateOnce": true,
+                        "bias": 0,
+                        "enabled": true,
+                        "whenInactive": false
+                    }
+                ]
+            },
+            "useCategoryDefaults": false,
+            "categoryDefaults": {
+                "text": "",
+                "contextConfig": {
+                    "prefix": "",
+                    "suffix": "\n",
+                    "tokenBudget": 2048,
+                    "reservedTokens": 0,
+                    "budgetPriority": 400,
+                    "trimDirection": "trimBottom",
+                    "insertionType": "newline",
+                    "maximumTrimType": "sentence",
+                    "insertionPosition": -1
+                },
+                "lastUpdatedAt": 1672893429540,
+                "displayName": "New Lorebook Entry",
+                "id": "faa4643a-92fc-4a8e-8c78-a9e4fd49450f",
+                "keys": [],
+                "searchRange": 1000,
+                "enabled": true,
+                "forceActivation": false,
+                "keyRelative": false,
+                "nonStoryActivatable": false,
+                "category": "",
+                "loreBiasGroups": [
+                    {
+                        "phrases": [],
+                        "ensureSequenceFinish": false,
+                        "generateOnce": true,
+                        "bias": 0,
+                        "enabled": true,
+                        "whenInactive": false
+                    }
+                ]
+            },
+            "categoryBiasGroups": [
+                {
+                    "phrases": [],
+                    "ensureSequenceFinish": false,
+                    "generateOnce": true,
+                    "bias": 0,
+                    "enabled": true,
+                    "whenInactive": false
+                }
+            ],
+            "open": false
+        },
+        {
+            "name": "Things",
+            "id": "17cd8608-77fa-42aa-a508-6acdccba4ccc",
+            "enabled": true,
+            "createSubcontext": false,
+            "subcontextSettings": {
+                "text": "",
+                "contextConfig": {
+                    "prefix": "",
+                    "suffix": "\n",
+                    "tokenBudget": 2048,
+                    "reservedTokens": 0,
+                    "budgetPriority": 400,
+                    "trimDirection": "trimBottom",
+                    "insertionType": "newline",
+                    "maximumTrimType": "sentence",
+                    "insertionPosition": -1
+                },
+                "lastUpdatedAt": 1672894600623,
+                "displayName": "New Lorebook Entry",
+                "id": "46f76a89-96cc-4606-942c-4d8346315f38",
+                "keys": [],
+                "searchRange": 1000,
+                "enabled": true,
+                "forceActivation": false,
+                "keyRelative": false,
+                "nonStoryActivatable": false,
+                "category": "",
+                "loreBiasGroups": [
+                    {
+                        "phrases": [],
+                        "ensureSequenceFinish": false,
+                        "generateOnce": true,
+                        "bias": 0,
+                        "enabled": true,
+                        "whenInactive": false
+                    }
+                ]
+            },
+            "useCategoryDefaults": false,
+            "categoryDefaults": {
+                "text": "",
+                "contextConfig": {
+                    "prefix": "",
+                    "suffix": "\n",
+                    "tokenBudget": 2048,
+                    "reservedTokens": 0,
+                    "budgetPriority": 400,
+                    "trimDirection": "trimBottom",
+                    "insertionType": "newline",
+                    "maximumTrimType": "sentence",
+                    "insertionPosition": -1
+                },
+                "lastUpdatedAt": 1672878645792,
+                "displayName": "New Lorebook Entry",
+                "id": "27c44883-f8b7-4543-8620-1e5f93cb5633",
+                "keys": [],
+                "searchRange": 1000,
+                "enabled": true,
+                "forceActivation": false,
+                "keyRelative": false,
+                "nonStoryActivatable": false,
+                "category": "",
+                "loreBiasGroups": [
+                    {
+                        "phrases": [],
+                        "ensureSequenceFinish": false,
+                        "generateOnce": true,
+                        "bias": 0,
+                        "enabled": true,
+                        "whenInactive": false
+                    }
+                ]
+            },
+            "categoryBiasGroups": [
+                {
+                    "phrases": [],
+                    "ensureSequenceFinish": false,
+                    "generateOnce": true,
+                    "bias": 0,
+                    "enabled": true,
+                    "whenInactive": false
+                }
+            ],
+            "open": true
+        }
+    ]
+}
