@@ -1,4 +1,4 @@
-name: Build/release
+name: Build
 
 on: push
 
@@ -14,9 +14,9 @@ jobs:
 
         steps:
           - uses: actions/checkout@v3
-          - name: Use Node.js ${{ matrix.node-version }}
+          - name: Use Node.js
             uses: actions/setup-node@v3
             with:
-              node-version: ${{ matrix.node-version }}
+              node-version: 10
           - run: npm install
           - run: electron-forge make
