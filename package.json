@@ -1,8 +1,8 @@
 {
   "name": "caseyuniverse",
   "productName": "caseyuniverse",
-  "version": "1.0.0",
-  "description": "My Electron application description",
+  "version": "0.1.100",
+  "description": "You play as Zack Casey and your best friend, Anthony Foxclaw, is a planet designer that discovers magic stones, known as the Essence, discovered in an asteroid belt. You two set off on an adventure across the universe in search for more, and discover their power in this text adventure game.",
   "main": "src/index.js",
   "scripts": {
     "start": "electron-forge start",
