@@ -1,22 +1,26 @@
-name: Build
+name: Electron Forge
 
-on: push
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
 
 jobs:
-  release:
+  build:
     timeout-minutes: 15
     continue-on-error: true
-    runs-on: ${{ matrix.os }}
+    runs-on: ${{ matrix.os-version }}
 
     strategy:
       matrix:
-        os: [macos-latest, ubuntu-latest, windows-latest]
+        os-version: [ubuntu-latest, windows-latest, macos-latest]
 
-        steps:
-          - uses: actions/checkout@v3
-          - name: Use Node.js
-            uses: actions/setup-node@v3
-            with:
-              node-version: 10
-          - run: npm install
-          - run: electron-forge make
+    steps:
+      - uses: actions/checkout@v3
+      - name: Use Node.js LTS
+        uses: actions/setup-node@v3
+        with:
+          node-version: "lts"
+      - run: npm install
+      - run: electron-forge make
