@@ -4,9 +4,11 @@ You play as Zack Casey and your best friend, Anthony Foxclaw, is a planet desig
 
 ## Lore Book
 
-Casey Universe is made with the aid of NovelAI's WIP text adventure mode. The Lore Book included in the root, ``Casey Universe.lorebook``, is a JSON file. It's contents normally part of a larger ``.story`` file. 
+Casey Universe is made with the aid of NovelAI's WIP text adventure mode. However, without a dictionary, it has *no idea* what it's talking about. The Lore Book, or World Info included in the root is a JSON file solves this problem. Known as ``Casey Universe.lorebook``, it's contents are normally part of a larger ``.story`` file that can be exported that can be imported into your game.
 
-Right now, this is a also a WIP since it was originally told from Anthony's perspective during the initial playtest. It relies heavily on varies roles, most based on careers from Sims 4, in order to provide a rich experience, most locations are still based on earth, at the moment, and some magic elements were adopted from D&D.
+Right now, this is a also a major WIP since it was originally told from Anthony's perspective during the initial play test. It relies heavily on varies roles, most based on careers from Sims 4, in order to provide a rich experience, most locations are still based on earth, at the moment, and some magic elements were adopted from D&D.
+
+For the record, everything in the lore book is wrapped in square brackets to prevent the AI from repeating the contents verbatim. It's suggested you do the same memory and author's notes.
 
 ## License
 

@@ -9,7 +9,7 @@
 </head>
 <body>
 <tw-story><noscript><tw-noscript>JavaScript needs to be enabled to play Casey Universe.</tw-noscript></noscript></tw-story>
-<tw-storydata name="Casey Universe" startnode="1" creator="Twine" creator-version="2.5.1" format="Harlowe" format-version="3.3.3" ifid="CCE85936-2D98-4CC8-BFEB-417AA352506C" options="" tags="" zoom="0.6" hidden><style role="stylesheet" id="twine-user-stylesheet" type="text/twine-css"></style><script role="script" id="twine-user-script" type="text/twine-javascript"></script><tw-passagedata pid="1" name="Main Menu" tags="" position="600,250" size="100,100">(align:&quot;=&gt;&lt;=&quot;)+(box:&quot;X&quot;)[=
+<tw-storydata name="Casey Universe" startnode="1" creator="Twine" creator-version="2.5.1" format="Harlowe" format-version="3.3.3" ifid="CCE85936-2D98-4CC8-BFEB-417AA352506C" options="" tags="" zoom="1" hidden><style role="stylesheet" id="twine-user-stylesheet" type="text/twine-css"></style><script role="script" id="twine-user-script" type="text/twine-javascript"></script><tw-passagedata pid="1" name="Main Menu" tags="" position="600,250" size="100,100">(align:&quot;=&gt;&lt;=&quot;)+(box:&quot;X&quot;)[=
 ## [[Play-&gt;Intro]]
 
 (unless: (history:) contains &quot;Settings&quot;)[
@@ -29,7 +29,7 @@ Anthony looks around to make sure nobody is looking. He places one finger on the
 
 Anthony lets out a breath of relief as his vision returns. &quot;That&#39;s how you interact with it.&quot; He smiles at you.
 
-Your fingers trail across its surface. &quot;This is so cool,&quot; you say, admiring its shimmering blue color and smooth texture.</tw-passagedata><tw-passagedata pid="3" name="Header" tags="header" position="725,250" size="100,100">(align:&quot;=&gt;&lt;=&quot;)+(box:&quot;X&quot;)[&#39;&#39;Casey Universe&#39;&#39; | [[Settings-&gt;Settings]]]</tw-passagedata><tw-passagedata pid="4" name="Settings" tags="" position="850,250" size="100,100">(align:&quot;=&gt;&lt;=&quot;)+(box:&quot;X&quot;)[=
+Your fingers trail across its surface. &quot;This is so cool,&quot; you say, admiring its shimmering blue color and smooth texture. [[You gesture your paw around the arcane crystal and cast a harmless spell-&gt;Harmless Spell]].</tw-passagedata><tw-passagedata pid="3" name="Header" tags="header" position="725,250" size="100,100">(align:&quot;=&gt;&lt;=&quot;)+(box:&quot;X&quot;)[&#39;&#39;Casey Universe&#39;&#39; | [[Settings-&gt;Settings]]]</tw-passagedata><tw-passagedata pid="4" name="Settings" tags="" position="850,250" size="100,100">(align:&quot;=&gt;&lt;=&quot;)+(box:&quot;X&quot;)[=
 What is your name?
 (input-box:2bind $player,&quot;X&quot;,1,&quot;Zack&quot;)
 
@@ -45,7 +45,29 @@ What is your name?
 
 You spend most of your time hanging out with your friends or practicing tricks on your board, your pastel lilac accents adding a touch of whimsy to your laid-back personality. You are friendly and easygoing, though sometimes you can be impulsive.
 
-(display:&quot;Return&quot;)</tw-passagedata><tw-passagedata pid="12" name="Untitled Passage" tags="" position="725,400" size="100,100"></tw-passagedata></tw-storydata>
+(display:&quot;Return&quot;)</tw-passagedata><tw-passagedata pid="12" name="Harmless Spell" tags="" position="600,525" size="100,100">A wave of soft, golden light spreads out from the crystal. It is warm, comforting, and soothing. A wave of warmth flows over your body, and you are instantly filled with an overwhelming feeling of safety and contentment. You relax and close your eyes, basking in its calming energy for a moment before opening them again.
+
+You can&#39;t stop thinking about Anthony&#39;s gift. You reach down and pick up the crystal, bringing it closer to inspect it in detail. Its surface is covered in tiny, glittering facets. Your hand floats over it, tracing the delicate patterns of blue and silver that run throughout its surface.
+
+&quot;There is more out there,&quot; Anthony says. &quot;But, we&#39;ll have to leave [[Oklar-&gt;Oklar Prime]] behind.&quot;
+
+As you ponder what he said, you glance out the window to see that night has fallen.
+
+&quot;Where are we going first? [[Wyncom-&gt;Wyncom]]?&quot; You ask.
+
+&quot;Yes,&quot; he says. &quot;Wyncom is where we&#39;ll find our next crystal.&quot;
+
+Anthony hands you a card. &quot;This is my Wyncom ID. Once you&#39;re in, go to the registration desk and tell them you&#39;re with me. They&#39;ll show you the way to the planet design department.&quot;
+
+You look at the card. It is a small, [[rectangular piece of paper-&gt;Psychic paper]], with a stylized picture of Oklar Prime printed on the front.
+
+&quot;Is this how we get around?&quot; You ask.
+
+&quot;Yep,&quot; Anthony replies.</tw-passagedata><tw-passagedata pid="13" name="Wyncom" tags="" position="400,550" size="100,100">Wyncom is a space station orbiting [[Oklar Prime-&gt;Oklar Prime]]. It&#39;s a hotel, research center, and provides connections to various planets and systems. The station contains a number of restaurants, shops, and other facilities for visitors. Visitors can stay at one of the hotels on the station or take a ship from here to go elsewhere in the galaxy.
+
+(display:&quot;Return&quot;)</tw-passagedata><tw-passagedata pid="14" name="Oklar Prime" tags="" position="275,550" size="100,100">Oklar Prime is an ring world located within the Sol system. It was built by Akonos Corporation, who also designed it so that it could support organic life. In addition to being habitable, it has been equipped with a number of amenities such as entertainment facilities, shopping malls, and restaurants. There&#39;s even a casino where you can gamble your money away.
+
+(display:&quot;Return&quot;)</tw-passagedata></tw-storydata>
 <script title="Twine engine code" data-main="harlowe">(function(){"use strict";
 var require,define;!function(){var e={},r={};require=function(i){var n=e[i];return n&&(r[i]=n[1].apply(void 0,n[0].map(require)),e[i]=void 0),r[i]},(define=function(r,i,n){if("function"==typeof r)return r();e[r]=[i,n]}).amd=!0}();/*!
  * https://github.com/paulmillr/es6-shim
