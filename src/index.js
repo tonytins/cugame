@@ -17,13 +17,13 @@ const createWindow = () => {
   const mainWindow = new BrowserWindow({
     width: 800,
     height: 600,
-    frame: false,
+    /* frame: false,
     titleBarStyle: 'hidden',
     titleBarOverlay: {
       color: '#000000',
       symbolColor: '#74b1be',
       height: 60
-    },
+    }, */
     webPreferences: {
       preload: path.join(__dirname, 'preload.js'),
     },

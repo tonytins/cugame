@@ -1,10 +1,12 @@
 # Casey Universe
 
-You play as Zack Casey and your best friend, Anthony Foxclaw, is a planet designer that discovers magic stones, known as the Essence, discovered in an asteroid belt. You two set off on an adventure across the universe in search for more, and discover their power in this text adventure game. Casey Universe is based on [Twine](https://twinery.org/) and distributed using [Electron](https://www.electronjs.org/).
+You play as Zack Casey and your best friend, Anthony Foxclaw, a planet designer, has discovered magic stones, known as the Essence, on an asteroid belt. He gifts one of them to you as a Christmas present along with the chance to set off on an adventure in order to collect more and discover the power that lies within. The adventure begins.
+
+Casey Universe is based on [Twine](https://twinery.org/) with desktop versions based [Electron](https://www.electronjs.org/).
 
 ## Lore Book
 
-Casey Universe is made with the aid of NovelAI's WIP text adventure mode. However, without a dictionary, it has *no idea* what it's talking about. The Lore Book, or World Info included in the root is a JSON file solves this problem. Known as ``Casey Universe.lorebook``, it's contents are normally part of a larger ``.story`` file that can be exported that can be imported into your game.
+Casey Universe is made with the aid of NovelAI's WIP text adventure mode. However, without a dictionary, it has *no idea* what it's talking about. The Lore Book, or World Info, included in the root is a JSON file that solves this problem. Known as ``Casey Universe.lorebook``, it's contents are normally part of a larger ``.story`` file that can be exported and shared.
 
 Right now, this is a also a major WIP since it was originally told from Anthony's perspective during the initial play test. It relies heavily on varies roles, most based on careers from Sims 4, in order to provide a rich experience, most locations are still based on earth, at the moment, and some magic elements were adopted from D&D.
 

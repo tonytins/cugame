@@ -13,7 +13,7 @@
 ## [[Play-&gt;Intro]]
 
 (unless: (history:) contains &quot;Settings&quot;)[
-(set: $player to &quot;Zack&quot;)]</tw-passagedata><tw-passagedata pid="2" name="Intro" tags="" position="600,400" size="100,100">You are [[$player-&gt;About You]], a young adult fennec adult who attends Broad River Institute and works at the Pizza Den with [[Anthony-&gt;Anthony Foxclaw]]. Your fur is a bright, icy blue color with swirling patterns of deep blue and silver, and pastel lilac accents that add a touch of whimsy to your laid-back personality. 
+(set: $player to &quot;Zack&quot;)]</tw-passagedata><tw-passagedata pid="2" name="Intro" tags="" position="600,375" size="100,100">You are [[$player-&gt;About You]], a young adult fennec adult who attends Broad River Institute and works at the Pizza Den with [[Anthony-&gt;Anthony Foxclaw]]. Your fur is a bright, icy blue color with swirling patterns of deep blue and silver, and pastel lilac accents that add a touch of whimsy to your laid-back personality. 
 
 It is Christmas day, and you are in your apartment when you hear a knock at the door. You open it to find Anthony Foxclaw, wearing his typical letterman jacket, skirt and long socks. He has come to visit you and bring you on a special adventure, bearing a very special gift. You can&#39;t wait to see what the day has in store.
 
@@ -29,23 +29,28 @@ Anthony looks around to make sure nobody is looking. He places one finger on the
 
 Anthony lets out a breath of relief as his vision returns. &quot;That&#39;s how you interact with it.&quot; He smiles at you.
 
-Your fingers trail across its surface. &quot;This is so cool,&quot; you say, admiring its shimmering blue color and smooth texture. [[You gesture your paw around the arcane crystal and cast a harmless spell-&gt;Harmless Spell]].</tw-passagedata><tw-passagedata pid="3" name="Header" tags="header" position="725,250" size="100,100">(align:&quot;=&gt;&lt;=&quot;)+(box:&quot;X&quot;)[&#39;&#39;Casey Universe&#39;&#39; | [[Settings-&gt;Settings]]]</tw-passagedata><tw-passagedata pid="4" name="Settings" tags="" position="850,250" size="100,100">(align:&quot;=&gt;&lt;=&quot;)+(box:&quot;X&quot;)[=
+Your fingers trail across its surface. &quot;This is so cool,&quot; you say, admiring its shimmering blue color and smooth texture. [[You gesture your paw around the arcane crystal and cast a harmless spell-&gt;Harmless Spell]].</tw-passagedata><tw-passagedata pid="3" name="Header" tags="header" position="725,250" size="100,100">(align:&quot;=&gt;&lt;=&quot;)+(box:&quot;X&quot;)[&#39;&#39;Casey Universe&#39;&#39; | [[Settings-&gt;Settings]] ]
+(set: $ismagiclore to false) (set: $isakonoslore to false)
+(set: $isplanetvyrlei to false)</tw-passagedata><tw-passagedata pid="4" name="Settings" tags="" position="850,250" size="100,100">(align:&quot;=&gt;&lt;=&quot;)+(box:&quot;X&quot;)[=
+=|=
 What is your name?
+=|=
 (input-box:2bind $player,&quot;X&quot;,1,&quot;Zack&quot;)
+|==|
 
-(display:&quot;Return&quot;)</tw-passagedata><tw-passagedata pid="5" name="Return" tags="" position="850,400" size="100,100">(align:&quot;=&gt;&lt;=&quot;)+(box:&quot;X&quot;)[(link-goto: &quot;Return&quot;, (history:)&#39;s last)]</tw-passagedata><tw-passagedata pid="6" name="Akonos" tags="" position="275,425" size="100,100">Akonos Corporation is a planet-designing company that specializes in creating artificial planets. They are known for their work on the planet Vyrlei, which they created using advanced technology. The corporation was founded by Dr. Hilde Akonos and her husband, Professor Thomas Akonos. After his death, she took over as CEO of the company.
+(link-goto: &quot;Return&quot;, (history:)&#39;s last)</tw-passagedata><tw-passagedata pid="5" name="Return" tags="" position="725,375" size="100,100">(align:&quot;=&gt;&lt;=&quot;)+(box:&quot;X&quot;)[(link-goto: &quot;Return&quot;, (history:)&#39;s last)]</tw-passagedata><tw-passagedata pid="6" name="Akonos" tags="" position="275,425" size="100,100">Akonos Corporation is a planet-designing company that specializes in creating artificial planets. (if:$isplanetvyrlei is true)[They are known for their work on the planet Vyrlei,] which they created using advanced technology. The corporation was founded by Dr. Hilde Akonos and her husband, Professor Thomas Akonos. (if:$isakonoslore is true)[After his death, she took over as CEO of the company.]
 
-(display:&quot;Return&quot;)</tw-passagedata><tw-passagedata pid="7" name="IMA" tags="" position="400,425" size="100,100">The International Magical Association (IMA) is an organization dedicated to regulating magical activity across the globe. Founded in 2073, it has grown into a global organization with members in every nation. Its headquarters is located in London, England. The IMA&#39;s primary goal is to ensure that no country or region gains too much influence over the magical community.</tw-passagedata><tw-passagedata pid="8" name="Psychic paper" tags="" position="400,300" size="100,100">Psychic paper is a special piece of paper that can make people see whatever the user wants them to see on it, but it is ineffective against those with psychic abilities or high intelligence or those with weak imaginations. It was invented by Professor Emile Hargreaves and sold under the name &quot;Psychic Paper&quot;. He used it as a way to test his theories about how the brain works.
+(display:&quot;Return&quot;)</tw-passagedata><tw-passagedata pid="7" name="IMA" tags="" position="400,425" size="100,100">The International Magical Association (IMA) is an organization dedicated to regulating magical activity across the globe. Founded in 2073, it has grown into a global organization with members in every nation. Its headquarters is located in London, England. The IMA&#39;s primary goal is to ensure that no country or region gains too much influence over the magical community.</tw-passagedata><tw-passagedata pid="8" name="Access Card" tags="" position="400,300" size="100,100">Psychic paper is a special piece of paper that can make people see whatever the user wants them to see on it, but it is ineffective against those with psychic abilities or high intelligence or those with weak imaginations. It was invented by Professor Emile Hargreaves and sold under the name &quot;Psychic Paper&quot;. He used it as a way to test his theories about how the brain works.
 
-(display:&quot;Return&quot;)</tw-passagedata><tw-passagedata pid="9" name="Arcane crystals" tags="" position="400,175" size="100,100">Discovered in a far away asteroid belt, the Arcane crystals, sometimes known as Mystic stones or simply the Essence, are rare, exotic stones that are coveted for their unique properties and versatility in magic. They are found in remote locations across the universe and are carefully harvested and refined by skilled practitioners. Each crystal is imbued with a specific type of magic, ranging from simple manipulation of physical objects to complex spells that can bend time and space. The power of an essence crystal is determined by its size, clarity, and purity, with larger, clearer, and purer crystals being more powerful. They are typically activated through the use of complex hand gestures and require a clear and focused mind to channel their power.
+(display:&quot;Return&quot;)</tw-passagedata><tw-passagedata pid="9" name="Magic" tags="" position="400,175" size="100,100">Discovered in a far away asteroid belt, the Arcane crystals, sometimes known as Mystic stones or simply the Essence, are rare, exotic stones that are coveted for their unique properties and versatility in magic. They are found in remote locations across the universe and are carefully harvested and refined by skilled practitioners. (if:$ismagiclore is true)[Each crystal is imbued with a specific type of magic, ranging from simple manipulation of physical objects to complex spells that can bend time and space. The power of an essence crystal is determined by its size, clarity, and purity, with larger, clearer, and purer crystals being more powerful. They are typically activated through the use of complex hand gestures and require a clear and focused mind to channel their power.]
 
-(display:&quot;Return&quot;)</tw-passagedata><tw-passagedata pid="10" name="Anthony Foxclaw" tags="" position="275,300" size="100,100">Anthony Foxclaw is a blue furred fennec with a bright, sapphire blue fur and shimmering patterns of silver and white, resembling the facets of a polished gemstone. He works for [[Akonos-&gt;Akonos]] as a planet designer. His favorite color is red, and he loves to eat spicy food. He also enjoys playing video games. He wears a letterman jacket over his uniform shirt and skirt. 
+(display:&quot;Return&quot;)</tw-passagedata><tw-passagedata pid="10" name="Anthony Foxclaw" tags="" position="275,300" size="100,100">Anthony Foxclaw is a blue furred fennec with a bright, sapphire blue fur and shimmering patterns of silver and white, resembling the facets of a polished gemstone. He works for [[Akonos-&gt;Akonos]] as a planet designer. His favorite color is red, and he loves to eat spicy food. He also enjoys playing video games. He wears a letterman jacket over his uniform shirt and skirt. As a world builder, he knows a lot about the galaxy, except [[magic-&gt;Magic]].
 
 (display:&quot;Return&quot;)</tw-passagedata><tw-passagedata pid="11" name="About You" tags="" position="275,175" size="100,100">You are $player, a young adult fennec adult who attends Broad River Institute and works at the Pizza Den with Anthony. With your bright, icy blue fur and swirling patterns of deep blue and silver, you are very athletic and skilled at skateboarding, but don&#39;t have much interest in academics.
 
 You spend most of your time hanging out with your friends or practicing tricks on your board, your pastel lilac accents adding a touch of whimsy to your laid-back personality. You are friendly and easygoing, though sometimes you can be impulsive.
 
-(display:&quot;Return&quot;)</tw-passagedata><tw-passagedata pid="12" name="Harmless Spell" tags="" position="600,525" size="100,100">A wave of soft, golden light spreads out from the crystal. It is warm, comforting, and soothing. A wave of warmth flows over your body, and you are instantly filled with an overwhelming feeling of safety and contentment. You relax and close your eyes, basking in its calming energy for a moment before opening them again.
+(display:&quot;Return&quot;)</tw-passagedata><tw-passagedata pid="12" name="Harmless Spell" tags="" position="600,500" size="100,100">A wave of soft, golden light spreads out from the crystal. It is warm, comforting, and soothing. A wave of warmth flows over your body, and you are instantly filled with an overwhelming feeling of safety and contentment. You relax and close your eyes, basking in its calming energy for a moment before opening them again.
 
 You can&#39;t stop thinking about Anthony&#39;s gift. You reach down and pick up the crystal, bringing it closer to inspect it in detail. Its surface is covered in tiny, glittering facets. Your hand floats over it, tracing the delicate patterns of blue and silver that run throughout its surface.
 
@@ -59,15 +64,48 @@ As you ponder what he said, you glance out the window to see that night has fall
 
 Anthony hands you a card. &quot;This is my Wyncom ID. Once you&#39;re in, go to the registration desk and tell them you&#39;re with me. They&#39;ll show you the way to the planet design department.&quot;
 
-You look at the card. It is a small, [[rectangular piece of paper-&gt;Psychic paper]], with a stylized picture of Oklar Prime printed on the front.
+You look at the card. It is a small, [[rectangular piece of paper-&gt;Access Card]], with a stylized picture of Oklar Prime printed on the front.
 
-&quot;Is this how we get around?&quot; You ask.
-
-&quot;Yep,&quot; Anthony replies.</tw-passagedata><tw-passagedata pid="13" name="Wyncom" tags="" position="400,550" size="100,100">Wyncom is a space station orbiting [[Oklar Prime-&gt;Oklar Prime]]. It&#39;s a hotel, research center, and provides connections to various planets and systems. The station contains a number of restaurants, shops, and other facilities for visitors. Visitors can stay at one of the hotels on the station or take a ship from here to go elsewhere in the galaxy.
+[[&quot;Is this how you get around?&quot; You ask.-&gt;Journey Begins]]</tw-passagedata><tw-passagedata pid="13" name="Wyncom" tags="" position="400,550" size="100,100">Wyncom is a space station orbiting [[Oklar Prime-&gt;Oklar Prime]]. It&#39;s a hotel, research center, and provides connections to various planets and systems. The station contains a number of restaurants, shops, and other facilities for visitors. Visitors can stay at one of the hotels on the station or take a ship from here to go elsewhere in the galaxy.
 
 (display:&quot;Return&quot;)</tw-passagedata><tw-passagedata pid="14" name="Oklar Prime" tags="" position="275,550" size="100,100">Oklar Prime is an ring world located within the Sol system. It was built by Akonos Corporation, who also designed it so that it could support organic life. In addition to being habitable, it has been equipped with a number of amenities such as entertainment facilities, shopping malls, and restaurants. There&#39;s even a casino where you can gamble your money away.
 
-(display:&quot;Return&quot;)</tw-passagedata></tw-storydata>
+(display:&quot;Return&quot;)</tw-passagedata><tw-passagedata pid="15" name="Journey Begins" tags="" position="600,625" size="100,100">&quot;Yep,&quot; Anthony replies. He hands you another card. &quot;And this is your access card.&quot;
+
+Your fingers brush the smooth plastic card. &quot;I&#39;ll make sure I don&#39;t lose it,&quot; you say as you put it away.
+
+Anthony leads you to the entrance. The door is open, but instead of entering into the hallway, Anthony presses his ID against the ID scanner. After a moment, a voice says: &quot;Welcome back, Foxclaw.&quot;
+
+Anthony smiles. &quot;Thank you. Have a good evening,&quot; he says politely and walks inside.
+You follow him inside, noting how large the lobby feels compared to the outside world.
+An elevator comes down the hall, carrying two young people in the process of aruging.
+
+As they argue, the doors to the elevator open, letting them off on their floor and causing one of the young people to step aside. |overhear&gt;[(link-rerun:&quot;You can hear them shouting.&quot;)[(show:?aruging)(hide:?overhear)]]
+|aruging)[
+&quot;We&#39;ll discuss it later!&quot; 
+
+&quot;No we won&#39;t! And we will find someone who knows how to make these things work properly!&quot;
+
+(link-rerun:&quot;The elevator closes and you continue to follow Anthony towards the registration desk.&quot;)[(hide:?aruging)(show:?overhear)]
+]
+A short time later, you arrive at the registration desk. An elderly fox wearing a green uniform and matching hat sits behind a wooden counter, typing away at a computer. She looks up and smiles as Anthony approaches.
+
+&quot;Hey there, Foxclaw! How&#39;ve you been?&quot; she says with a cheerful voice. &quot;And what can I do for you this fine evening?&quot;
+
+&quot;Hi, Ms. Tanya,&quot; he replies. &quot;I have new visitors arriving. They need access cards.&quot;
+&quot;Already? It&#39;s been less than a year since your last visit.&quot;
+
+&quot;True,&quot; Anthony agrees. He hands her the two cards. &quot;These are for them.&quot;
+
+She nods. &quot;Right away, sir. You&#39;ll want the third floor. We&#39;ve got plenty of space, and it&#39;s easy to get around. If you go down that hallway, you&#39;ll see it on your left.&quot; She points the way.
+
+&quot;Thank you!&quot; Anthony says with a smile.
+
+As Anthony turns to go, the woman speaks again. &quot;Don&#39;t forget to pick up those crystals, now! They&#39;re quite useful.&quot;
+
+&quot;We won&#39;t,&quot; Anthony replies, as he leaves.
+
+You enter into the large, empty hallway. It appears to be part of the building, but it feels completely separate from the rest.</tw-passagedata></tw-storydata>
 <script title="Twine engine code" data-main="harlowe">(function(){"use strict";
 var require,define;!function(){var e={},r={};require=function(i){var n=e[i];return n&&(r[i]=n[1].apply(void 0,n[0].map(require)),e[i]=void 0),r[i]},(define=function(r,i,n){if("function"==typeof r)return r();e[r]=[i,n]}).amd=!0}();/*!
  * https://github.com/paulmillr/es6-shim
